@@ -1,0 +1,841 @@
+
+Glenn Theodore Seaborg
+( April 19, 1912 – February 25, 1999) was an American chemist whose involvement in the synthesis, discovery and investigation of ten transuranium elements earned him a share of the 1951 Nobel Prize in Chemistry.[3] His work in this area also led to his development of the actinide concept and the arrangement of the actinide series in the periodic table of the elements.
+Seaborg spent most of his career as an educator and research scientist at the University of California, Berkeley, serving as a professor, and, between 1958 and 1961, as the university's second chancellor.[4] He advised ten US Presidents—from Harry S. Truman to Bill Clinton—on nuclear policy and was Chairman of the United States Atomic Energy Commission from 1961 to 1971, where he pushed for commercial nuclear energy and the peaceful applications of nuclear science. Throughout his career, Seaborg worked for arms control. He was a signatory to the Franck Report and contributed to the Limited Test Ban Treaty, the Nuclear Non-Proliferation Treaty and the Comprehensive Test Ban Treaty. He was a well-known advocate of science education and federal funding for pure research. Toward the end of the Eisenhower administration, he was the principal author of the Seaborg Report on academic science, and, as a member of President Ronald Reagan's National Commission on Excellence in Education, he was a key contributor to its 1983 report "A Nation at Risk".
+Seaborg was the principal or co-discoverer of ten elements: plutonium, americium, curium, berkelium, californium, einsteinium, fermium, mendelevium, nobelium and element 106, which, while he was still living, was named seaborgium in his honor. He also discovered more than 100 isotopes of transuranium elements and is credited with important contributions to the chemistry of plutonium, originally as part of the Manhattan Project where he developed the extraction process used to isolate the plutonium fuel for the second atomic bomb. Early in his career, he was a pioneer in nuclear medicine and discovered isotopes of elements with important applications in the diagnosis and treatment of diseases, including iodine-131, which is used in the treatment of thyroid disease. In addition to his theoretical work in the development of the actinide concept, which placed the actinide series beneath the lanthanide series on the periodic table, he postulated the existence of super-heavy elements in the transactinide and superactinide series.
+After sharing the 1951 Nobel Prize in Chemistry with Edwin McMillan, he received approximately 50 honorary doctorates and numerous other awards and honors. The list of things named after Seaborg ranges from the chemical element seaborgium to the asteroid 4856 Seaborg. He was a prolific author, penning numerous books and 500 journal articles, often in collaboration with others. He was once listed in the Guinness Book of World Records as the person with the longest entry in Who's Who in America.
+Early life
+Glenn Theodore Seaborg was born in Ishpeming, Michigan, on April 19, 1912, the son of Herman Theodore (Ted) and Selma Olivia Erickson Seaborg. He had one sister, Jeanette, who was two years younger. His family spoke Swedish at home. When Glenn Seaborg was a boy, the family moved to Los Angeles County, California, settling in a subdivision called Home Gardens, later annexed to the City of South Gate, California. About this time he changed the spelling of his first name from Glen to Glenn.[5]
+Seaborg kept a daily journal from 1927 until he suffered a stroke in 1998.[6] As a youth, Seaborg was both a devoted sports fan and an avid movie buff. His mother encouraged him to become a bookkeeper as she felt his literary interests were impractical. He did not take an interest in science until his junior year when he was inspired by Dwight Logan Reid, a chemistry and physics teacher at David Starr Jordan High School in Watts.[7]
+Seaborg graduated from Jordan in 1929 at the top of his class and received a Bachelor of Arts (BA) degree in chemistry at the University of California, Los Angeles, in 1933.[5] He worked his way through school as a stevedore and a laboratory assistant at Firestone.[8] Seaborg received his PhD in chemistry at the University of California, Berkeley, in 1937 with a doctoral thesis on the "Interaction of Fast Neutrons with Lead",[9][10] in which he coined the term "nuclear spallation".[11]
+Seaborg was a member of the professional chemistry fraternity Alpha Chi Sigma. As a graduate student in the 1930s Seaborg performed wet chemistry research for his advisor Gilbert Newton Lewis,[11] and published three papers with him on the theory of acids and bases.[12][13][14] Seaborg studied the text Applied Radiochemistry by Otto Hahn, of the Kaiser Wilhelm Institute for Chemistry in Berlin, and it had a major impact on his developing interests as a research scientist. For several years, Seaborg conducted important research in artificial radioactivity using the Lawrence cyclotron at UC Berkeley. He was excited to learn from others that nuclear fission was possible—but also chagrined, as his own research might have led him to the same discovery.[15]
+Seaborg also became an adept interlocutor of Berkeley physicist Robert Oppenheimer. Oppenheimer had a daunting reputation and often answered a junior colleague's question before it had even been stated. Often the question answered was more profound than the one asked, but of little practical help. Seaborg learned to state his questions to Oppenheimer quickly and succinctly.[16]
+Seaborg remained at the University of California, Berkeley, for post-doctoral research. He followed Frederick Soddy's work investigating isotopes and contributed to the discovery of more than 100 isotopes of elements. Using one of Lawrence's advanced cyclotrons, John Livingood, Fred Fairbrother, and Seaborg created a new isotope of iron, iron-59 in 1937. Iron-59 was useful in the studies of the hemoglobin in human blood. In 1938, Livingood and Seaborg collaborated (as they did for five years) to create an important isotope of iodine, iodine-131, which is still used to treat thyroid disease.[17] (Many years later, it was credited with prolonging the life of Seaborg's mother.) As a result of these and other contributions, Seaborg is regarded as a pioneer in nuclear medicine and is one of its most prolific discoverers of isotopes.[18]
+In 1939 he became an instructor in chemistry at Berkeley, was promoted to assistant professor in 1941 and professor in 1945.[19] University of California, Berkeley, physicist Edwin McMillan led a team that discovered element 93, which he named neptunium in 1940. In November, he was persuaded to leave Berkeley temporarily to assist with urgent research in radar technology. Since Seaborg and his colleagues had perfected McMillan's oxidation-reduction technique for isolating neptunium, he asked McMillan for permission to continue the research and search for element 94. McMillan agreed to the collaboration.[20] Seaborg first reported alpha decay proportionate to only a fraction of the element 93 under observation. The first hypothesis for this alpha particle accumulation was contamination by uranium, which produces alpha-decay particles; analysis of alpha-decay particles ruled this out. Seaborg then postulated that a distinct alpha-producing element was being formed from element 93.[21]
+In February 1941, Seaborg and his collaborators produced plutonium-239 through the bombardment of uranium. In their experiments bombarding uranium with deuterons, they observed the creation of neptunium, element 93. But it then underwent beta-decay, forming a new element, plutonium, with 94 protons. Plutonium is fairly stable, but undergoes alpha-decay, which explained the presence of alpha particles coming from neptunium.[21] Thus, on March 28, 1941, Seaborg, physicist Emilio Segrè and Berkeley chemist Joseph W. Kennedy were able to show that plutonium (then known only as element 94) was fissile, an important distinction that was crucial to the decisions made in directing Manhattan Project research.[22] In 1966, Room 307 of Gilman Hall on the campus at the Berkeley, where Seaborg did his work, was declared a U.S. National Historic Landmark.[23]
+In addition to plutonium, he is credited as a lead discoverer of americium, curium, and berkelium, and as a co-discoverer of californium, einsteinium, fermium, mendelevium, nobelium and seaborgium. He shared the Nobel Prize in Chemistry in 1951 with Edwin McMillan for "their discoveries in the chemistry of the first transuranium elements."[3]
+Scientific contributions during the Manhattan Project
+On April 19, 1942, Seaborg reached Chicago and joined the chemistry group at the Metallurgical Laboratory of the Manhattan Project at the University of Chicago, where Enrico Fermi and his group would later convert uranium-238 to plutonium-239 in a controlled nuclear chain reaction. Seaborg's role was to figure out how to extract the tiny bit of plutonium from the mass of uranium. Plutonium-239 was isolated in visible amounts using a transmutation reaction on August 20, 1942, and weighed on September 10, 1942, in Seaborg's Chicago laboratory. He was responsible for the multi-stage chemical process that separated, concentrated and isolated plutonium. This process was further developed at the Clinton Engineering Works in Oak Ridge, Tennessee, and then entered full-scale production at the Hanford Engineer Works, in Richland, Washington.[24]
+Seaborg's theoretical development of the actinide concept resulted in a redrawing of the periodic table into its current configuration with the actinide series appearing below the lanthanide series. Seaborg developed the chemical elements americium and curium while in Chicago. He managed to secure patents for both elements. His patent on curium never proved commercially viable because of the element's short half-life, but americium is commonly used in household smoke detectors and thus provided a good source of royalty income to Seaborg in later years. Prior to the test of the first nuclear weapon, Seaborg joined with several other leading scientists in a written statement known as the Franck Report (secret at the time but since published) unsuccessfully calling on President Truman to conduct a public demonstration of the atomic bomb witnessed by the Japanese.[25]
+Professor and Chancellor at the University of California, Berkeley
+From Prince Harry in Afghanistan to Tom Cruise ranting about Scientology and footage from the Burmese uprising, blogging has never been bigger. It can help elect presidents and take down attorneys general while simultaneously celebrating the minutiae of our everyday obsessions. Here are the 50 best reasons to log on
+Read Bobbie Johnson's blog on celebrity snooper Nick Denton here
+Jessica Aldred, Amanda Astell, Rafael Behr, Lauren Cochrane, John Hind, Anna Pickard, Laura Potter, Alice Wignall and Eva Wiseman
+Sun 9 Mar 2008 12.09 GMT
+The following apology was published in the Observer's For the record column, Sunday March 16 2008
+The article below said 'Psychodwarf' was Beppe Grillo's nickname for 'Mario Mastella, leader of the Popular-UDEUR centre-right party', but it's actually his nickname for Silvio Berlusconi. Mastella's first name is Clemente and Popular-UDEUR was part of Romano Prodi's centre-left coalition. And Peter Rojas, not Ryan Block, founded Engadget and co-founded Gizmodo. Apologies.
+1. The Huffington Post
+The history of political blogging might usefully be divided into the periods pre- and post-Huffington. Before the millionaire socialite Arianna Huffington decided to get in on the act, bloggers operated in a spirit of underdog solidarity. They hated the mainstream media - and the feeling was mutual.
+Bloggers saw themselves as gadflies, pricking the arrogance of established elites from their home computers, in their pyjamas, late into the night. So when, in 2005, Huffington decided to mobilise her fortune and media connections to create, from scratch, a flagship liberal blog she was roundly derided. Who, spluttered the original bloggerati, did she think she was?
+But the pyjama purists were confounded. Arianna's money talked just as loudly online as off, and the Huffington Post quickly became one of the most influential and popular journals on the web. It recruited professional columnists and celebrity bloggers. It hoovered up traffic. Its launch was a landmark moment in the evolution of the web because it showed that many of the old rules still applied to the new medium: a bit of marketing savvy and deep pockets could go just as far as geek credibility, and get there faster.
+To borrow the gold-rush simile beloved of web pioneers, Huffington's success made the first generation of bloggers look like two-bit prospectors panning for nuggets in shallow creeks before the big mining operations moved in. In the era pre-Huffington, big media companies ignored the web, or feared it; post-Huffington they started to treat it as just another marketplace, open to exploitation. Three years on, Rupert Murdoch owns MySpace, while newbie amateur bloggers have to gather traffic crumbs from under the table of the big-time publishers.
+Least likely to post 'I'm so over this story - check out the New York Times'
+huffingtonpost.com
+2. Boing Boing
+Lego reconstructions of pop videos and cakes baked in the shape of iPods are not generally considered relevant to serious political debate. But even the most earnest bloggers will often take time out of their busy schedule to pass on some titbit of mildly entertaining geek ephemera. No one has done more to promote pointless, yet strangely cool, time-wasting stuff on the net than the editors of Boing Boing (subtitle: A Directory of Wonderful Things). It launched in January 2000 and has had an immeasurable influence on the style and idiom of blogging. But hidden among the pictures of steam-powered CD players and Darth Vader tea towels there is a steely, ultra-liberal political agenda: championing the web as a global medium free of state and corporate control.
+Boing Boing chronicles cases where despotic regimes have silenced or imprisoned bloggers. It helped channel blogger scorn on to Yahoo and Google when they kowtowed to China's censors in order to win investment opportunities. It was instrumental in exposing the creeping erosion of civil liberties in the US under post-9/11 'Homeland Security' legislation. And it routinely ridicules attempts by the music and film industries to persecute small-time file sharers and bedroom pirates instead of getting their own web strategies in order. It does it all with gentle, irreverent charm, polluted only occasionally with gratuitous smut.
+Their dominance of the terrain where technology meets politics makes the Boing Boing crew geek aristocracy.
+Least likely to post 'Has anyone got a stamp?'
+boingboing.net
+3. Techcrunch
+Techcrunch began in 2005 as a blog about dotcom start-ups in Silicon Valley, but has quickly become one of the most influential news websites across the entire technology industry. Founder Michael Arrington had lived through the internet goldrush as a lawyer and entrepreneur before deciding that writing about new companies was more of an opportunity than starting them himself. His site is now ranked the third-most popular blog in the world by search engine Technorati, spawning a mini-empire of websites and conferences as a result. Business Week named Arrington one of the 25 most influential people on the web, and Techcrunch has even scored interviews with Barack Obama and John McCain.
+With a horde of hungry geeks and big money investors online, Techcrunch is the largest of a wave of technology-focused blog publishers to tap into the market - GigaOm, PaidContent and Mashable among them - but often proves more contentious than its rivals, thanks to Arrington's aggressive relationships with traditional media and his conflicts of interest as an investor himself.
+Least likely to post 'YouTube? It'll never catch on'
+techcrunch.com
+4. Kottke
+One of the early wave of blogging pioneers, web designer Jason Kottke started keeping track of interesting things on the internet as far back as 1998. The site took off, boosted partly through close links to popular blog-building website Blogger (he later married one of the founders). And as the phenomenon grew quickly, Kottke became a well-known filter for surfers on the lookout for interesting reading.
+Kottke remains one of the purest old-skool bloggers on the block - it's a selection of links to websites and articles rather than a repository for detailed personal opinion - and although it remains fairly esoteric, his favourite topics include film, science, graphic design and sport. He often picks up trends and happenings before friends start forwarding them to your inbox. Kottke's decision to consciously avoid politics could be part of his appeal (he declares himself 'not a fan'), particularly since the blog's voice is literate, sober and inquiring, unlike much of the red-faced ranting found elsewhere online.
+A couple of key moments boosted Kottke's fame: first, being threatened with legal action by Sony for breaking news about a TV show, but most notably quitting his web-design job and going solo three years ago. A host of 'micropatrons' and readers donated cash to cover his salary, but these days he gets enough advertising to pay the bills. He continues to plug away at the site as it enters its 10th year.
+Least likely to post 'Look at this well wicked vid of a dog on a skateboard'
+kottke.org
+5. Dooce
+One of the best-known personal bloggers (those who provide more of a diary than a soapbox or reporting service), Heather Armstrong has been writing online since 2001. Though there were personal websites that came before hers, certain elements conspired to make Dooce one of the biggest public diaries since Samuel Pepys's (whose diary is itself available, transcribed in blog form, at Pepysdiary.com). Primarily, Armstrong became one of the first high-profile cases of somebody being fired for writing about her job. After describing events that her employer - a dotcom start-up - thought reflected badly on them, Armstrong was sacked. The incident caused such fierce debate that Dooce found itself turned into a verb that is used in popular parlance (often without users realising its evolution): 'dooced - to be fired from one's job as a direct result of one's personal website'.
+Behind Dooce stands an army of personal bloggers perhaps not directly influenced by, or even aware of, her work - she represents the hundreds of thousands who decide to share part of their life with strangers.
+Armstrong's honesty has added to her popularity, and she has written about work, family life, postnatal depression, motherhood, puppies and her Mormon upbringing with the same candid and engaging voice. Readers feel that they have been brought into her life, and reward her with their loyalty. Since 2005 the advertising revenue on her blog alone has been enough to support her family.
+Least likely to post 'I like babies but I couldn't eat a whole one'
+dooce.com
+6. Perezhilton
+Once dubbed 'Hollywood's most hated website', Perezhilton (authored by Mario Lavandeira since 2005) is the gossip site celebrities fear most. Mario, 29, is famous for scrawling rude things (typically doodles about drug use) over pap photos and outing closeted stars. On the day of Lindsay Lohan's arrest for drink-driving, he posted 60 updates, and 8m readers logged on.
+
+He's a shameless publicity whore, too. His reality show premiered on VH1 last year, and his blogsite is peppered with snaps of him cuddling Paris Hilton at premieres. Fergie from Black Eyed Peas alluded to him in a song, and Avril Lavigne phoned, asking him to stop writing about her after he repeatedly blogged about her lack of talent and her 'freakishly long arm'.
+
+Least likely to post 'Log on tomorrow for Kofi Annan's live webchat'
+
+perezhilton.com
+
+7. Talking points memo
+At some point during the disputed US election of 2000 - when Al Gore was famously defeated by a few hanging chads - Joshua Micah Marshall lost patience. Despite working as a magazine editor, Marshall chose to vent on the web. Eight years later Talking Points Memo and its three siblings draw in more than 400,000 viewers a day from their base in New York.
+
+Marshall has forged a reputation, and now makes enough money to run a small team of reporters who have made an impact by sniffing out political scandal and conspiracy. 'I think in many cases the reporting we do is more honest, more straight than a lot of things you see even on the front pages of great papers like the New York Times and the Washington Post,' he said in an interview last year. 'But I think both kinds of journalism should exist, should co-exist.'
+
+Although his unabashed partisan approach is admonished by many old-fashioned American reporters, Marshall's skills at pulling together the threads of a story have paid dividends. Last year he helped set the agenda after George Bush covertly fired a string of US attorneys deemed disloyal to the White House. While respected mainstream media figures accused Marshall of seeing conspiracy, he kept digging: the result was the resignation of attorney general Alberto Gonzales, and a prestigious George Polk journalism award for Marshall, the first ever for a blogger.
+
+Least likely to post 'Barack is so, like, gnarly to the max'
+
+talkingpointsmemo.com
+
+8. Icanhascheezburger
+Amused by a photo of a smiling cat, idiosyncratically captioned with the query 'I Can Has A Cheezburger?', which he found on the internet while between jobs in early 2007, Eric Nakagawa of Hawaii emailed a copy of it to a friend (known now only as Tofuburger). Then, on a whim, they began a website, first comprising only that one captioned photo but which has since grown into one of the most popular blogs in the world.
+
+Millions of visitors visit Icanhascheezburger.com to see, create, submit and vote on Lolcats (captioned photos of characterful cats in different settings). The 'language' used in the captions, which this blog has helped to spread globally, is known as Lolspeak, aka Kitty Pidgin. In Lolspeak, human becomes 'hooman', Sunday 'bunday', exactly 'xackly' and asthma 'azma'. There is now an effort to develop a LOLCode computer-programming language and another to translate the Bible into Lolspeak.
+
+Least likely to post 'Actually, dogs are much more interesting..."
+
+icanhascheezburger.com
+
+9. Beppe Grillo
+Among the most visited blogs in the world is that of Beppe Grillo, a popular Italian comedian and political commentator, long persona non grata on state TV, who is infuriated daily - especially by corruption and financial scandal in his country.
+
+A typical blog by Grillo calls, satirically or otherwise, for the people of Naples and Campania to declare independence, requests that Germany declare war on Italy to help its people ('We will throw violets and mimosa to your Franz and Gunther as they march through') or reports on Grillo's ongoing campaign to introduce a Bill of Popular Initiative to remove from office all members of the Italian parliament who've ever had a criminal conviction. Grillo's name for Mario Mastella, leader of the Popular-UDEUR centre-right party, is Psychodwarf. 'In another country, he would have been the dishwasher in a pizzeria,' says Grillo. Through his blog, he rallied many marchers in 280 Italian towns and cities for his 'Fuck You' Day last September.
+
+Least likely to post 'Sign up to our campaign to grant Silvo Berlusconi immunity'
+
+beppegrillo.it
+
+10. Gawker
+A New York blog of 'snarky' gossip and commentary about the media industry, Gawker was founded in 2002 by journalist Nick Denton, who had previously helped set up a networking site called First Tuesday for web and media entrepreneurs. Gawker's earliest fascination was gossip about Vogue editor Anna Wintour, garnered from underlings at Conde Nast. This set the tone for amassing a readership of movers and shakers on the Upper East Side, as well as 'the angry creative underclass' wishing either to be, or not be, like them, or both ('the charmingly incompetent X... the wildly successful blowhard'). Within a year Gawker's readers were making 500,000 page views per month. Nowadays the figure is 11m, recovering from a recent dip to 8m thanks to the showing of a Tom Cruise 'Indoctrination Video' which Scientologists had legally persuaded YouTube to take down. Gawker remains the flagship of Gawker Media, which now comprises 14 blogs, although gossiping by ex-Gawker insiders, a fixation on clicks (which its bloggers are now paid on the basis of) and fresh anxiety over defining itself have led some to claim Gawker has become more 'tabloidy' and celeb- and It-girl-orientated, and less New York-centric. But its core value - 'media criticism' - appears to be intact.
+
+Least likely to post 'We can only wish Rupert Murdoch well with his new venture'
+
+gawker.com
+
+11. The Drudge Report
+The Report started life as an email gossip sheet, and then became a trashy webzine with negligible traffic. But thanks to the decision in 1998 to run a scurrilous rumour – untouched by mainstream media – about Bill Clinton and a White House intern named Monica Lewinsky, it became a national phenomenon. Recent scoops include Barack Obama dressed in tribal garb and the fact Prince Harry was serving in Afghanistan. Drudge is scorned by journalists and serious bloggers for his tabloid sensibilities, but his place in the media history books is guaranteed. And much though they hate him, the hacks all still check his front page – just in case he gets another president-nobbling scoop.
+
+Least likely to post 'Oops, one sec – just got to check the facts…'
+
+drudgereport.com
+
+12. Xu Jinglei
+Jinglei is a popular actress (and director of Letter From An Unknown Woman) in China, who in 2005 began a blog ('I got the joy of expressing myself') which within a few months had garnered 11.5m visits and spurred thousands of other Chinese to blog. In 2006 statisticians at Technorati, having previously not factored China into their calculations, realised Jinglei's blog was the most popular in the world. In it she reports on her day-to-day moods, reflections, travels, social life and cats ('Finally the first kitten's been born!!! Just waiting for the second, in the middle of the third one now!!!!!!!! It's midnight, she gave birth to another one!!!!!!'). She blogs in an uncontroversial but quite reflective manner, aiming to show a 'real person' behind the celebrity. Each posting, usually ending with 'I have to be up early' or a promise to report tomorrow on a DVD she is watching, is followed by many hundreds of comments from readers – affirming their love, offering advice, insisting she take care. Last year her blog passed the 1bn clicks mark.
+
+Least likely to post 'Forget the kittens – get a Kalashnikov!!!!!!!'
+
+blog.sina.com.cn/xujinglei
+
+13. Treehugger
+Treehugger is a green consumer blog with a mission to bring a sustainable lifestyle to the masses. Its ethos, that a green lifestyle does not have to mean sacrifice, and its positive, upbeat feel have attracted over 1.8m unique users a month. Consistently ranked among the top 20 blogs on Technorati, Treehugger has 10 staff but also boasts 40 writers from a wide variety of backgrounds in more than 10 countries around the world, who generate more than 30 new posts a day across eight categories, ranging from fashion and beauty, travel and nature, to science and technology. Treehugger began as an MBA class project four years ago and says it now generates enough revenue from sponsorship and advertising to pay all its staffers and writers. It has developed a highly engaged community and has added popular services like TreeHugger.tv, and a user-generated blog, Hugg. It was bought by the Discovery Channel last year for a rumoured $10m.
+
+Least likely to post 'Why Plastic Bags rock'
+
+treehugger.com
+
+14. Microsiervos
+Microsiervos, which began in 2001, took its name from Douglas Coupland's novel Microserfs, a diary entry-style novel about internet pioneers. It is run by Alvy, Nacho and Wicho, three friends in Madrid, who blog in Spanish. The second most popular blog in Europe and the 13th most popular in the world (according to eBizMBA), Microsiervos concerns itself with science, curiosities, strange reality, chance, games, puzzles, quotations, conspiracies, computers, hacking, graffiti and design. It is informal, friendly and humorous, moving from news of an eccentric new letter font to reflections on the discovery of the Milky Way having double the thickness it was previously thought to have.
+
+Least likely to post 'The internet is, like, so over'
+
+microsiervos.com
+
+15. TMZ
+You want relentless celebrity gossip on tap? TMZ will provide it, and when we say relentless, we mean relentless. The US site is dripping with 'breaking news' stories, pictures and videos, and deems celeb activity as mundane as stars walking to their cars worthy of a video post. TMZ was launched in 2005 by AOL and reportedly employs around 20 writers to keep the celeb juice flowing. It pulls in 1.6m readers a month and is endlessly cited as the source for red-top celeb stories. It was the first to break Alec Baldwin's now infamous 'rude little pig' voicemail last April, for instance. TMZ prides itself on being close to the action, so close, in fact, a TMZ photographer had his foot run over by Britney Spears mid-meltdown. They auctioned the tyre-tracked sock on eBay in aid of US charity the Children's Defense Fund last autumn.
+
+Least likely to post 'Paris is a metaphor for Third World debt'
+
+TMZ.com
+
+16. Engadget
+Engadget provides breaking news, rumours and commentary on, for instance, a camera able to track a head automatically, the very latest HD screen or 'visual pollution' concerns prompted by hand-held pico laser-projectors. The world's most popular blog on gadgets and consumer electronics, Engadget was founded by Peter Rojas in 2004 and won the Web Blogs Awards that year and each year since. Now part of Weblogs Inc (owned by AOL), it is offered on many other sites (including GoogleMail) as a default RSS feed, and is published in English, Spanish, Japanese and Chinese. Last year, a mistake confirmed Engadget's power - upon reporting a supposed email (which turned out to be a hoax) from Apple, informing Apple employees of a delay in the launch of iPhone, Apple's share price fell by 3 per cent within minutes. Rojas also co-founded rival gadget blog Gizmodo.
+
+Least likely to post 'An iWhat?'
+
+engadget.com
+
+17. Marbury
+No matter what happens between now and 4 November, you can be certain the US presidential election of 2008 will be among the most historically important and dramatic of any fought. Having an informed opinion will be a must, but if you are as yet unable to tell your Iowa Caucus from your Feiler Faster Thesis, Marbury – a British blog on American politics – is the place to start. The site's creator, Ian Leslie, is an ex-expat who fell for American politics during a four-year stint living in New York. The site signposts important events and interesting analyses, gives context and witty commentary on everything from the most serious speeches to the silliest election-themed YouTube clips. And West Wing fans will be pleased to note that the blog's name is a reference to the show's British ambassador to the United States, Lord John Marbury, who, appropriately enough, provided an eccentrically British but reliably insightful appraisal of American politics.
+
+Least likely to post 'Is it just me or is Romney getting cuter?'
+
+marbury.typepad.com
+
+18. Chez Pim
+Attracting around 10,000 people from all over the globe to her site every week, Pim Techamuanvivit has tried and tested an awful lot of food. From Michelin-starred restaurants to street food and diners, she samples it all, and posts her thoughts and pictures to share with other foodie fans. She advises her readers on what cooking equipment to go for, posts recipe suggestions for them to try, and gives them a nudge in the direction of which food shows are worth a watch. She's not just famous on the net, she's attracted global coverage in the media with her writing, recipes and interviews appearing in such diverse publications as the New York Times, Le Monde and the Sydney Morning Herald.
+
+Least likely to post 'Chocolate's my favourite flavour of Pop Tart'
+
+chezpim.typepad.com
+
+19. Basic thinking
+Recently rated the 18th most influential blog in the world by Wikio, Basic Thinking, which has the tag line 'Mein Haus, Mein Himmel, Mein Blog', is run by Robert Basic of Usingen, Germany, who aims 'to boldly blog what no one has blogged before', and recently posted his 10,000th entry. Basic Thinking reports on technology and odds and ends, encouraging readers to rummage through an 1851 edition of the New York Times one minute and to contemplate the differences between mooses and elks the next.
+
+Least likely to post 'Mein heim, mein gott – I need to get a life'
+
+basicthinking.de/blog
+
+20. The Sartorialist
+As ideas go, this one is pretty simple. Man wanders around Manhattan with a camera. Spots someone whose outfit he likes. Asks if he can take a picture. Goes home and posts it on his blog. But the man in question is Scott Schuman, who had 15 years' experience working at the high-fashion end of the clothing industry before starting The Sartorialist. He's got a sharp eye for a good look, a gift for grabbing an on-the-hoof pic and an unwavering enthusiasm for people going the extra mile in the name of style. Minimalist it might be, but his site – a basic scroll of full-length street portraits, occasionally annotated with a brief note – is mesmeric and oddly beautiful. The site attracts more than 70,000 readers a day and has been named one of Time's Top 100 Design Influences. So if you're out and about and a guy called Scott asks to take your picture, just smile. You're about to become a style icon.
+
+Least likely to post 'Sometimes you need to chill in a shellsuit'
+
+thesartorialist.blogspot.com
+
+21. Students for a free Tibet
+Taking the protest online, Students for a Free Tibet (SFT) is a global, grassroots network of students campaigning to free Tibet, which has been occupied by China since 1950. Students in Tibet face arrest for posting on the site, but many escape to blog about their experiences in exile. With a history of direct action, the group is now uniting worldwide members through the web, blogging to spread word of news and protests, and using sites like Facebook to raise funds. The organisation, which was founded in 1994 in New York, spans more than 35 countries and gets up to 100,000 hits a month. In 2006, SFT used a satellite link at Mount Everest base camp to stream live footage on to YouTube of a demonstration against Chinese Olympic athletes practising carrying the torch there. Later this year the web will be a critical tool in organising and reporting protests during the games. 'SFT plans to stage protests in Beijing during the games and post blogs as events unfold,' says Iain Thom, the SFT UK national co-ordinator. 'But for security reasons we can't reveal details of how or where yet.' Similarly, a massive protest in London on 10 March will be the subject of intense cyber comment. In response, the site has fallen victim to increasingly sophisticated cyber attacks. Investigations have traced the sources back to China, leading to speculation that the Chinese authorities are trying to sabotage the site to stop online critics.
+
+Least likely to post 'Hey guyz, any hotties in the Nepal region?!'
+
+studentsforafreetibet.org
+
+22. Jezebel
+Last year Gawker Media launched Jezebel – a blog which aimed to become a brilliant version of a women's magazine. It succeeded quickly, in part by acknowledging the five big lies perpetuated by the women's media: The Cover Lie (female forgeries of computer-aided artistry); The Celebrity-Profile Lie (flattery, more nakedly consumerist and less imaginative than the movies they're shilling for); The Must-Have Lie (magazine editors are buried in free shit); The Affirmation Crap Lie (you are insecure about things you didn't know it was possible to be insecure about); and The Big Meta Lie (we're devastatingly affected by the celebrity media). Their regular 'Crap Email From a Dude' feature is especially fantastic, as is their coverage of current stories (opinionated and consistently hilarious) and politics. It offers the best lady-aimed writing on the web, along with lots of nice pictures of Amy Winehouse getting out of cars.
+
+Least likely to post 'How To Look Skinny While Pleasing Your Man!'
+
+jezebel.com
+
+23. Gigazine
+Created by Satoshi Yamasaki and Mazaki Keito of Osaka, Gigazine is the most popular blog in Japan, covering the latest in junk foods and beverages, games, toys and other ingredients of colourful pop product culture. Visitors first witness 'eye candy' such as David Beckham condoms (from China), 75 turtles in a fridge, the packaging for Mega Frankfurters or a life-size Ferrari knitted from wool, learn of a second X-Files movie moving into pre-pre-production, watch a vacuum-cleaning robot being tested and compare taste reports of Kentucky Fried Chicken's new Shrimp Tsuisuta Chilli.
+
+Least likely to post 'Anyone seen these charming croquet mallets?'
+
+gigazine.net
+
+24. Girl with a one-track mind
+Following in the footsteps of Belle de Jour – the anonymous blogger claiming to be a sex worker – the girl with a one track mind started writing in open, explicit terms about her lively sex life in 2004. By 2006, the blog was bookified and published by Ebury, and spent much time on bestseller lists, beach towels and hidden behind the newspapers of serious-looking commuters. Though she was keen to retain her anonymity and continue her career in the film industry, author 'Abby Lee' was soon outed as north Londoner Zoe Margolis by a Sunday newspaper.
+
+Least likely to post 'I've got a headache'
+
+girlwithaonetrackmind.blogspot.com
+
+25. Mashable
+Founded by Peter Cashmore in 2005, Mashable is a social-networking news blog, reporting on and reviewing the latest developments, applications and features available in or for MySpace, Facebook, Bebo and countless lesser-known social-networking sites and services, with a special emphasis on functionality. The blog's name Mashable is derived from Mashup, a term for the fusing of multiple web services. Readers range from top web 2.0 developers to savvy 13-year-olds wishing for the latest plug-ins to pimp up their MySpace pages.
+
+Least likely to post 'But why don't you just phone them up?'
+
+mashable.com
+
+26. Greek tragedy
+Stephanie Klein's blog allows her to 'create an online scrapbook of my life, complete with drawings, photos and my daily musings' or, rather, tell tawdry tales of dating nightmares, sexual encounters and bodily dysfunctions. Thousands of women tune in for daily accounts of her narcissistic husband and nightmarish mother-in-law and leave equally self-revealing comments transforming the pages into something of a group confessional. The blog has been so successful that Klein has penned a book, Straight Up and Dirty, and has featured in countless magazine and newspaper articles around the globe. Not bad for what Klein describes as 'angst online'.
+
+Least likely to post 'Enough about me – what's your news?'
+
+stephanieklein.blogs.com
+
+27. Holy Moly
+If a weekly flick through Heat just isn't enough, then a daily intake of Holy Moly will certainly top up those celeb gossip levels. The UK blog attracts 750,000 visitors a month and 240,000 celeb-obsessees subscribe to the accompanying weekly mail-out. It's an established resource for newspaper columnists – both tabloid and broadsheet – and there's a daily 'News from the Molehill' slot in the free London paper The Metro. Last month Holy Moly created headlines in its own right by announcing a rethink on publishing paparazzi shots. The blog will no longer publish pics obtained when 'pursuing people in cars and on bikes', as well as 'celebrities with their kids', 'people in distress at being photographed' and off-duty celebs. But don't think that means the omnipresent celeb blog that sends shivers round offices up and down the country on 'mail-out day' is slowing down – there has been talk of Holy Moly expanding into TV.
+
+Least likely to post 'What do you think of the new Hanif Kureishi?'
+
+holymoly.co.uk
+
+28. Michelle Malkin
+Most surveys of web use show a fairly even gender balance online, but political blogging is dominated by men. One exception is Michelle Malkin, a conservative newspaper columnist and author with one of the most widely read conservative blogs in the US. That makes her one of the most influential women online. Her main theme is how liberals betray America by being soft on terrorism, peddling lies about global warming and generally lacking patriotism and moral fibre.
+
+Least likely to post 'That Obama's got a lovely smile, hasn't he?'
+
+www.michellemalkin.com
+
+29. Cranky flier
+There's nowhere to hide for airlines these days. Not with self-confessed 'airline dork' Brett Snyder, aka Cranky Flier, keeping tabs on their progress. He's moved on from spending his childhood birthdays in airport hotels, face pressed against the window watching the planes come in, and turned his attention to reporting on the state of airlines. His CV is crammed with various US airline jobs, which gives him the insider knowledge to cast his expert eye over everything from the recent 777 emergency landing at Heathrow to spiralling baggage handling costs and the distribution of air miles to 'virtual assistants'.
+
+Least likely to post 'There's nothing wrong with a well-conducted cavity search'
+
+crankyflier.com
+
+30. Go fug yourself
+It's a neat word, fug – just a simple contraction of 'ugly' and its preceding expletive – but from those three letters an entire fugging industry has grown. At Go Fug Yourself, celebrity offenders against style, elegance and the basic concept of making sure you're covering your reproductive organs with some form of clothing before you leave the house are 'fugged' by the site's writers, Jessica Morgan and Heather Cocks. In their hands, the simple pleasure of yelping 'Does she even OWN a mirror?' at a paparazzi shot of some B-list headcase in fuchsia becomes an epic battle against dull Oscar gowns, ill-fitting formalwear and Lindsay Lohan's leggings. The site stays on the right side of gratuitous nastiness by dishing out generous praise when due (the coveted 'Well Played'), being genuinely thoughtful on questions of taste and funnier on the subject of random starlets in sequined sweatpants than you could possibly even imagine.
+
+Least likely to post 'Oprah looked great in those stretch jeans'
+
+gofugyourself.typepad.com
+
+31. Gaping void
+In the middle of a career as an adman in New York, Hugh MacLeod found himself doodling acerbic and almost surreal cartoons on the back of people's business cards to pass the time in bars. Everyone seemed to like the idea, so he kept going. Things started going gangbusters when he pimped his cartoons on the internet, and as he built an audience through his blog, he started writing about his other passion – the new world of understanding how to adapt marketing to the new world of the net. Remember when everybody was madly printing off vouchers from the web that saved you 40 per cent? That was one of his: aimed at helping shift more bottles from Stormhoek, the South African vintner he works with.
+
+Least likely to post 'This product really sells itself'
+
+gapingvoid.com
+
+32. Dirtydirty dancing
+If someone stole your camera, took it out for the night to parties you yourself aren't cool enough to go to and returned it in the morning, you would probably find it loaded up with pictures like those posted on DirtyDirtyDancing. The site seems pretty lo-fi – just entries called things like 'Robin's birthday' and 'FEB16' featuring pages of images of hip young things getting their party on. And that's it. The original delight was in logging on to see if you'd made it on to the site – your chances increase exponentially if you're beautiful, avant-garde and hang out at clubs and parties in the edgier parts of London – but now the site can get up to 900,000 hits a month from all over the world.
+
+Least likely to post 'Revellers at the Earl of Strathdore's hunt ball'
+
+dirtydirtydancing.com
+
+33. Crooked timber
+With a title pulled from Immanuel Kant's famous statement that 'out of the crooked timber of humanity, no straight thing was ever made', it's an amalgam of academic and political writing that has muscled its way into the epicentre of intelligent discussion since its conception in 2003. Formed as an internet supergroup, pulling several popular intellectual blogs together, Crooked Timber now has 16 members – largely academics – across the US, Europe, Australia and Asia. The site has built itself a reputation as something of an intellectual powerhouse; a sort of global philosophical thinktank conducted via blog.
+
+Least likely to post 'Did anyone see Casualty last night?'
+
+crookedtimber.org
+
+34. Beansprouts
+Combining diary, opinion and green lifestyle tips, Beansprouts is a blog that covers one family's 'search for the good life'. Melanie Rimmer and her family of five live in a 'small ex-council house' with a garden on the edge of farmland in Poynton, Cheshire. They grow food on an allotment nearby, keep chickens and bees and 'try to be green, whatever that means'. Rimmer set up the blog nearly two years ago when she first got the allotment and says she felt it was something worth writing about. With one post a day, often more, topics for discussion can range from top 10 uses for apples to making scrap quilts.
+
+Least likely to post 'Make mine a Happy Meal'
+
+bean-sprouts.blogspot.com
+
+35. The offside
+Launched by 'Bob' after the success of his WorldCupBlog in 2006, Offside is a UK-based blog covering football leagues globally, gathering news and visuals on all of it, inviting countless match reports and promoting discussion on all things soccer, from the attack by a colony of red ants on a player in the Sao Paulo state championship third division, to the particular qualities of every one of Cristiano Ronaldo's goals so far this season. Considered by many to be the best 'serious' blog in the game, it nevertheless promises irreverently, 'If there is a sex scandal in England, we'll be stuck in the middle of it. If a player is traded for 1,000lb of beef in Romania, we'll cook the steak. And if something interesting happens in Major League Soccer, we'll be just as surprised as you.'
+
+Least likely to post 'Check out Ronaldo's bubble butt'
+
+theoffside.com
+
+36. Peteite Anglaise
+The tagline of a new book hitting British shelves reads 'In Paris, in love, in trouble', but if it were telling the whole story, perhaps it should read 'In public' too. Bored at work one day in 2004, expat secretary Catherine Sanderson happened upon the concept of blogging. With a few clicks and an impulse she created her own blog, and quickly gathered fans who followed her life in Paris, the strained relationship with her partner and adventures with her toddler. And there was plenty of drama to watch: within a year her relationship had broken up, and she'd met a new man who wooed her online. Readers were mesmerised by her unflinching dedication to telling the whole story, no matter how she would be judged. Soon afterwards, however, Sanderson's employers found out about the blog and promptly fired her. Defeat turned into victory, however, with the press attention she gathered from the dismissal not only securing victory in an industrial tribunal, but also helping her score a lucrative two-book deal with Penguin.
+
+Least likely to post 'J'ai assez parle de moi, qu'est-ce que vous pensez?'
+
+petiteanglaise.com
+
+37. Crooks and liars
+Founded in 2004 by John Amato (a professional saxophonist and flautist), Crooks and Liars is a progressive/liberal-leaning political blog, with over 200m visitors to date, which is illustrated by video and audio clips of politicians and commentators on podiums, radio and TV. Readers post a variety of comments on political talking points of the day, although 9/11 conspiracy theories are often deleted, and there is a daily round-up of notable stories on other political blogs.
+
+Least likely to post 'So just what is a caucus?'
+
+crooksandliars.com
+
+38. Chocolate and Zucchini
+For Clothilde Dusoulier, a young woman working in computing and living in the Paris district of Montmartre, starting a blog was a way of venting her boundless enthusiasm for food without worrying she might be boring her friends with it. Five years later Chocolate and Zucchini, one of the most popular cooking blogs, has moved from being a hobby to a full-time career. The mixture of an insider's view on gastronomic Paris, conversational, bilingual writing and the sheer irresistibility of her recipes pull in thousands of readers every day. This, in turn, has led to multiple books and the ability to forge a dream career as a food writer.The name of the blog is, she says, a good metaphor for her cooking style: 'The zucchini illustrates my focus on healthy and natural eating... and the chocolate represents my decidedly marked taste for anything sweet.'
+
+Least likely to post 'Just add instant mash'
+
+chocolateandzucchini.com
+
+39. Samizdata
+Samizdata is one of Britain's oldest blogs. Written by a bunch of anarcho-libertarians, tax rebels, Eurosceptics and Wildean individualists, it has a special niche in the political blogosphere: like a dive bar, on the rational side of the border between fringe opinion and foam-flecked paranoid ranting. Samizdata serves its opinions up strong and neat, but still recognisable as politics. On the other side of the border, in the wilderness, the real nutters start.
+
+Least likely to post 'I'd say it's six of one, half a dozen of the other'
+
+samizdata.net
+
+40. The daily dish
+Andrew Sullivan is an expat Brit, blogging pioneer and defier-in-chief of American political stereotypes. He is an economic conservative (anti-tax), a social liberal (soft on drugs) and a foreign policy hawk (pro-war). He endorsed George Bush in 2000 and John Kerry in 2004. Barack Obama is his preferred Democrat candidate in 2008. So he is either confused, a hypocrite or a champion of honest non-partisanship – depending on your point of view. He is also gay, a practising Roman Catholic and HIV-positive, a set of credentials he routinely deploys in arguments to confuse atheist liberals and evangelical conservatives.
+
+Least likely to post 'Sorry, I can't think of anything to say'
+
+andrewsullivan.theatlantic.com
+
+41. The F word
+Founded in 2001, the UK's first feminist webzine is responsible for reviving debates around feminism in Britain. Edited by Jess McCabe, the site, which receives around 3,000 hits a day, is dedicated to providing a forum for contemporary feminist voices, with a daily news blog, features on stereotypes and censorship, podcasts on pornography and regular feminist film reviews.
+
+Least likely to post 'What's the difference between a woman and a condom?'
+
+thefword.org.uk
+
+42. Jonny B's private secret diary
+Growing in popularity since its debut in 2003, Jonny B's diary – which is clearly neither private nor terribly secret – catalogues the rock and bowls lifestyle of one man in the depths of rural Norfolk. With the mocking self-awareness of a modern Diary of a Nobody, the author tells tales of wild nights at the village pub and the fortunes of the local bowls team. As a slow, gentle satire on modern village life, it is often held up as an example of blog as sitcom, and has not only attracted a loyal band of readers, but a dedicated fan club on Facebook desperate to work out the real identity of the wit behind the site. Previous guesses have included Chris Evans and Johnny Vaughan, though both have been strenuously denied.
+
+Least likely to post 'OMG, I saw Jessica Simpson in Lidl and she signed my bum!'
+
+privatesecretdiary.com
+
+43. Popjustice
+When Smash Hits! died, Popjustice became the new home of pop music. Founded in 2000 by Peter Robinson, it combines fandom with music news and raw critique, all hilarious, and all blindingly correct. Recent features include a review of Eurovision failure Daz Sampson's new single 'Do A Little Dance' ('The listener is invited to muse on the sad inevitability of their own death') and a furious debate about the future of Girls Aloud.
+
+Least likely to post 'I prefer Pierre Boulez's interpretation of Mahler's third'
+
+popjustice.com
+
+44. Waiter rant
+Rant isn't quite the right word for this collection of carefully crafted stories from the sharp end of the service industry in a busy New York restaurant. 'The Waiter', as the author is known, has been blogging his experiences with fussy customers and bad tippers since 2004, winning a gong at blogging's biggest awards, the Bloggies, in 2007. It's representative – but by no means the first – of the so-called 'job-blogs', with people from all walks of life, from ambulance drivers (randomactsofreality.net) and policemen (coppersblog.blogspot.com) to the greatly loved but now defunct Call Centre Confidential. Between them they chronicle life in their trade, and usually from behind a veil of anonymity. Something about the everyday nature of The Waiter – a person we like to pretend is invisible or treat with servile disdain – deconstructing the event later with a subtle, erudite typestroke, has captured the public imagination and (hopefully) made some people behave better in restaurants than they otherwise might.
+
+Least likely to post 'The customer is always right'
+
+waiterrant.net
+
+45. Hecklerspray
+The internet's not exactly short of gossip websites providing scurrilous rumours of who did what to whom, but some stand out from the rest. Sharply written and often laugh-out-loud funny, Hecklerspray has been called the British alternative to Perez Hilton, but it's different in important ways: the emphasis here is on style and wit, with a stated aim to 'chronicle the ups and downs of all that is populist and niche within the murky world of entertainment'. Basically, it's gossip for grown-ups.
+
+Least likely to post 'If you can't say anything nice…'
+
+hecklerspray.com
+
+46. WoWinsider
+WoWinsider is a blog about the World of Warcraft, which is the most popular online role-playing game in the world, one for which over 10m pay subscriptions each month in order to control an avatar (a character, chosen from 10 races) and have it explore landscapes, perform quests, build skills, fight monsters to the death and interact with others' avatars. WoWinsider reports on what's happening within WoW ('Sun's Reach Harbor has been captured'). It also reports on outside developments and rumours ('A future patch will bring a new feature: threat meters'). Supporters of US presidential candidate Ron Paul promoted on WoWInsider their recent virtual mass march through the WoW. And the blog recently reported that America's Homeland Security are – seriously – looking for a terrorist operating within WoW.
+
+Least likely to post 'Who fancies a game of space invaders?'
+
+WoWinsider.com
+
+47. Angry black bitch
+Angry Black Bitch, which has the tagline, 'Practising the Fine Art of Bitchitude', is the four-year-old blog of Shark Fu of St Louis, Missouri. She has never posted a photo of herself and this 'anonymity' has led recently to her having to fend off claims she's really a white man, even a drag queen. But taken as read, Shark Fu is a much-discussed, 35-year-old black woman, tired of the 'brutal weight' of her 'invisibility'.
+
+Least likely to post 'I'm off to anger-management'
+
+angryblackbitch.blogspot.com
+
+48. Stylebubble
+Fashion blogger Susie Lau says Stylebubble is just a diary of what she wears and why. But few diaries are read by 10,000 people a day. Lau, 23, admits to spending up to 60 per cent of her pay from her day job in advertising on clothes, but now she's viewed as a fashion opinion former, she's being paid in kind. Her influence is such that fashion editors namecheck her blog, Chanel invites her to product launches and advertisers have come calling.
+
+Least likely to post 'I even wear my Ugg boots in bed'
+
+stylebubble.typepad.com
+
+49. AfterEllen
+Afterellen takes an irreverent look at how the lesbian community is represented in the media. Started by lesbian pop-culture guru Sarah Warn in 2002, the name of the site gives a nod to the groundbreaking moment Ellen DeGeneres came out on her hit TV show, Ellen, in 1997. Since then, lesbian and bisexual women have moved from the margins on to primetime TV, and this blog analyses the good, the bad and the ugly of how they're portrayed. It's now the biggest website for LGBT women, with half a million hits a month.
+
+Least likely to post 'George Clooney – I wouldn't kick him out of bed'
+
+afterellen.com
+
+50. Copyblogger
+It's dry, real, and deafeningly practical, but for an online writing-for-the-internet blog, Copyblogger, founded in 2006, is remarkably interesting. Swelling with advice on online writing, it's an essential tool for anyone trying to make themselves heard online, whether commenting on a discussion board or putting together a corporate website.
+
+Least likely to post 'Social networking – it's just a phase'
+
+copyblogger.com
+
+· Join the Debate: If you would like to comment about our choice of blogs, go to blogs.theguardian.com/digitalcontent
+
+· This article was amended on Friday March 14 2008. In the article above we wrongly said that Ryan Block founded Engadget and co-founded gadget blog Gizmodo. They were actually founded and co-founded by Peter Rojas. This has been corrected.
+
+… as you’re joining us today from India, we have a small favour to ask. Tens of millions have placed their trust in the Guardian’s fearless journalism since we started publishing 200 years ago, turning to us in moments of crisis, uncertainty, solidarity and hope. More than 1.5 million supporters, from 180 countries, now power us financially – keeping us open to all, and fiercely independent.
+
+Unlike many others, the Guardian has no shareholders and no billionaire owner. Just the determination and passion to deliver high-impact global reporting, always free from commercial or political influence. Reporting like this is vital for democracy, for fairness and to demand better from the powerful.
+
+And we provide all this for free, for everyone to read. We do this because we believe in information equality. Greater numbers of people can keep track of the global events shaping our world, understand their impact on people and communities, and become inspired to take meaningful action. Millions can benefit from open access to quality, truthful news, regardless of their ability to pay for it.
+
+If there were ever a time to join us, it is now. Every contribution, however big or small, powers our journalism and sustains our future. Support the Guardian from as little as $1 – it only takes a minute. If you can, please consider supporting us with a regular amount each month. Thank you.
+Early life, family, and education
+
+Truman at age 13 in 1897
+Truman was born in Lamar, Missouri, on May 8, 1884, the oldest child of John Anderson Truman and Martha Ellen Young Truman. He was named for his maternal uncle, Harrison "Harry" Young. His middle initial, "S", honors his grandfathers, Anderson Shipp Truman and Solomon Young.[8][b] A brother, John Vivian, was born soon after Harry, followed by sister Mary Jane.[9] Truman's ancestry is primarily English with some Scots-Irish, German, and French.[10][11]
+
+John Truman was a farmer and livestock dealer. The family lived in Lamar until Harry was ten months old, when they moved to a farm near Harrisonville, Missouri. They next moved to Belton and in 1887 to his grandparents' 600-acre (240 ha) farm in Grandview.[12] When Truman was six, his parents moved to Independence, Missouri, so he could attend the Presbyterian Church Sunday School. He did not attend a conventional school until he was eight.[13] While living in Independence, he served as a Shabbos goy for Jewish neighbors, doing tasks for them on Shabbat that their religion prevented them from doing on that day.[14][15][16]
+
+Truman was interested in music, reading, and history, all encouraged by his mother, with whom he was very close. As president, he solicited political as well as personal advice from her.[17] He rose at five every morning to practice the piano, which he studied more than twice a week until he was fifteen, becoming quite a skilled player.[18] Truman worked as a page at the 1900 Democratic National Convention in Kansas City;[19] his father had many friends active in the Democratic Party who helped young Harry to gain his first political position.[20]
+
+After graduating from Independence High School in 1901, Truman enrolled in Spalding's Commercial College, a Kansas City business school. He studied bookkeeping, shorthand, and typing but left after a year.[21]
+
+Working career
+
+Truman's home in Independence, Missouri
+Truman was employed briefly in the mailroom of The Kansas City Star[22] before making use of his business college experience to obtain a job as a timekeeper for construction crews on the Atchison, Topeka & Santa Fe Railway, which required him to sleep in workmen's camps along the rail lines.[23] Truman and his brother Vivian later worked as clerks at the National Bank of Commerce in Kansas City.[24]
+
+In 1906, Truman returned to the Grandview farm, where he lived until entering the army in 1917.[25] During this period, he courted Bess Wallace. He proposed in 1911, but she turned him down. Truman later said he intended to propose again, but he wanted to have a better income than that earned by a farmer.[26] To that end, during his years on the farm and immediately after World War I, he became active in several business ventures, including a lead and zinc mine near Commerce, Oklahoma,[27] a company that bought land and leased the oil drilling rights to prospectors,[28] and speculation in Kansas City real estate.[29] Truman occasionally derived some income from these enterprises, but none proved successful in the long term.[30]
+
+Truman is the only president since William McKinley (elected in 1896) who did not earn a college degree.[31] In addition to having briefly attended business college, from 1923 to 1925 he took night courses toward an LL.B. at the Kansas City Law School (now the University of Missouri–Kansas City School of Law) but dropped out after losing reelection as county judge.[32] He was informed by attorneys in the Kansas City area that his education and experience were probably sufficient to receive a license to practice law, but did not pursue it because he won election as presiding judge.[33]
+
+While serving as president in 1947, Truman applied for a law license.[34] A friend who was an attorney began working out the arrangements, and informed Truman that his application had to be notarized. By the time Truman received this information he had changed his mind, so he never followed up. After the discovery of Truman's application in 1996 the Missouri Supreme Court issued him a posthumous honorary law license.[35]
+
+Military service
+National Guard
+Because he lacked the funds for college, Truman considered attending the United States Military Academy at West Point, New York, which had no tuition, but he was refused an appointment because of poor eyesight.[32] He enlisted in the Missouri National Guard in 1905 and served until 1911 in the Kansas City-based Battery B, 2nd Missouri Field Artillery Regiment, in which he attained the rank of corporal.[36] At his induction, his eyesight without glasses was unacceptable 20/50 in the right eye and 20/400 in the left (past the standard for legal blindness).[37] The second time he took the test, he passed by secretly memorizing the eye chart.[38] He was described as 5 feet 10 inches tall, gray eyed, dark haired and of light complexion.[39]
+
+Truman in military uniform with shoulder and waist belt with helmet
+Truman in uniform, c. 1918
+World War I
+When the United States entered World War I in 1917, Truman rejoined Battery B, successfully recruiting new soldiers for the expanding unit, for which he was elected as their first lieutenant.[40] Before deployment to France, Truman was sent for training to Camp Doniphan, Fort Sill, near Lawton, Oklahoma when his regiment was federalized as the 129th Field Artillery.[41] The regimental commander during its training was Robert M. Danford, who later served as the Army's Chief of Field Artillery.[42] Truman later said he learned more practical, useful information from Danford in six weeks than from six months of formal Army instruction, and when Truman later served as an artillery instructor, he consciously patterned his approach on Danford's.[42]
+
+Truman also ran the camp canteen with Edward Jacobson, a clothing store clerk he knew from Kansas City. Unlike most canteens funded by unit members, which usually lost money, the canteen operated by Truman and Jacobson turned a profit, returning each soldier's initial $2 investment and $10,000 in dividends in six months.[36] At Fort Sill, Truman met Lieutenant James M. Pendergast, nephew of Tom Pendergast, a Kansas City political boss, a connection that had a profound influence on Truman's later life.[43][44]
+
+In mid-1918, about one million soldiers of the American Expeditionary Forces were in France.[45] Truman was promoted to captain effective April 23,[46] and in July became commander of the newly arrived Battery D, 129th Field Artillery, 35th Division.[47][48] Battery D was known for its discipline problems, and Truman was initially unpopular because of his efforts to restore order.[36] Despite attempts by the men to intimidate him into quitting, Truman succeeded by making his corporals and sergeants accountable for discipline. He promised to back them up if they performed capably, and reduce them to private if they did not.[49] In an event memorialized in battery lore as "The Battle of Who Run", his soldiers began to flee during a sudden night attack by the Germans in the Vosges Mountains; Truman succeeded at ordering his men to stay and fight, using profanity from his railroad days. The men were so surprised to hear Truman use such language that they immediately obeyed.[36]
+
+Truman's unit joined in a massive prearranged assault barrage on September 26, 1918, at the opening of the Meuse-Argonne Offensive.[50] They advanced with difficulty over pitted terrain to follow the infantry, and set up an observation post west of Cheppy.[50] On September 27, Truman saw through his binoculars an enemy artillery battery deploying across a river in a position which would allow them to fire upon the neighboring 28th Division.[50] Truman's orders limited him to targets facing the 35th Division, but he ignored this and patiently waited until the Germans had walked their horses well away from their guns, ensuring they could not relocate out of range of Truman's battery.[50] He then ordered his men to open fire, and their attack destroyed the enemy battery.[50] His actions were credited with saving the lives of 28th Division soldiers who otherwise would have come under fire from the Germans.[51][52] Truman was given a dressing down by his regimental commander, Colonel Karl D. Klemm, who threatened to convene a court-martial, but Klemm never followed through, and Truman was not punished.[50]
+
+In other action during the Meuse-Argonne Offensive, Truman's battery provided support for George S. Patton's tank brigade,[53] and fired some of the last shots of the war on November 11, 1918. Battery D did not lose any men while under Truman's command in France. To show their appreciation of his leadership, his men presented him with a large loving cup upon their return to the United States after the war.[36]
+
+The war was a transformative experience in which Truman manifested his leadership qualities. He had entered the service in 1917 as a family farmer who had worked in clerical jobs that did not require the ability to motivate and direct others, but during the war, he gained leadership experience and a record of success that greatly enhanced and supported his post-war political career in Missouri.[36]
+
+Truman was brought up in the Presbyterian and Baptist churches,[54] but avoided revivals and sometimes ridiculed revivalist preachers.[55] He rarely spoke about religion, which to him, primarily meant ethical behavior along traditional Protestant lines.[56] Truman once wrote in a letter to his future wife, Bess: "You know that I know nothing about Lent and such things..."[57] Most of the soldiers he commanded in the war were Catholics, and one of his close friends was the 129th Field Artillery's chaplain, Monsignor L. Curtis Tiernan.[58] The two remained friends until Tiernan's death in 1960.[59] Developing leadership and interpersonal skills that later made him a successful politician helped Truman get along with his Catholic soldiers, as he did with soldiers of other Christian denominations and the unit's Jewish members.[60][61]
+
+Officers' Reserve Corps
+Truman was honorably discharged from the Army as a captain on May 6, 1919.[62] In 1920 he was appointed a major in the Officers Reserve Corps. He became a lieutenant colonel in 1925 and a colonel in 1932.[63] In the 1920s and 1930s he commanded 1st Battalion, 379th Field Artillery, 102d Infantry Division.[64] After promotion to colonel, Truman advanced to command of the same regiment.[65]
+
+After his election to the U.S. Senate, Truman was transferred to the General Assignments Group, a holding unit for less active officers, although he had not been consulted in advance.[66] Truman protested his reassignment, which led to his resumption of regimental command.[66] He remained an active reservist until the early 1940s.[67] Truman volunteered for active military service during World War II, but was not accepted, partly because of age, and partly because President Franklin D. Roosevelt desired senators and congressmen who belonged to the military reserves to support the war effort by remaining in Congress, or by ending their active duty service and resuming their congressional seats.[68] He was an inactive reservist from the early 1940s until retiring as a colonel in the then redesignated U.S. Army Reserve on January 20, 1953.[69]
+
+Military awards and decorations
+Truman was awarded a World War I Victory Medal with two battle clasps (for St. Mihiel and Meuse-Argonne) and a Defensive Sector Clasp. He was also the recipient of two Armed Forces Reserve Medals.[70]
+
+Politics
+Jackson County judge
+Wedding photo of Truman in gray suit and his wife in hat with white dress holding flowers
+Harry and Bess Truman on their wedding day, June 28, 1919
+After his wartime service, Truman returned to Independence, where he married Bess Wallace on June 28, 1919.[71] The couple had one child, Mary Margaret Truman.[72]
+
+Shortly before the wedding, Truman and Jacobson opened a haberdashery together at 104 West 12th Street in downtown Kansas City. After brief initial success, the store went bankrupt during the recession of 1921.[17] Truman did not pay off the last of the debts from that venture until 1935, when he did so with the aid of banker William T. Kemper, who worked behind the scenes to enable Truman's brother Vivian to buy Truman's $5,600 promissory note during the asset sale of a bank that had failed in the Great Depression.[73][74] The note had risen and fallen in value as it was bought and sold, interest accumulated and Truman made payments, so by the time the last bank to hold it failed, it was worth nearly $9,000.[75] Thanks to Kemper's efforts, Vivian Truman was able to buy it for $1,000.[74] Jacobson and Truman remained close friends even after their store failed, and Jacobson's advice to Truman on Zionism later played a role in the U.S. Government's decision to recognize Israel.[76]
+
+With the help of the Kansas City Democratic machine led by Tom Pendergast, Truman was elected in 1922 as County Court judge of Jackson County's eastern district—Jackson County's three-judge court included judges from the western district (Kansas City), the eastern district (the county outside Kansas City), and a presiding judge elected countywide. This was an administrative rather than a judicial court, similar to county commissioners in many other jurisdictions. Truman lost his 1924 reelection campaign in a Republican wave led by President Calvin Coolidge's landslide election to a full term. Two years selling automobile club memberships convinced him that a public service career was safer for a family man approaching middle age, and he planned a run for presiding judge in 1926.[77]
+
+Truman won the job in 1926 with the support of the Pendergast machine, and he was re-elected in 1930. As presiding judge, Truman helped coordinate the Ten Year Plan, which transformed Jackson County and the Kansas City skyline with new public works projects, including an extensive series of roads and construction of a new Wight and Wight-designed County Court building. Also in 1926, he became president of the National Old Trails Road Association, and during his term he oversaw dedication of 12 Madonna of the Trail monuments to honor pioneer women.[77][78]
+
+In 1933, Truman was named Missouri's director for the Federal Re-Employment program (part of the Civil Works Administration) at the request of Postmaster General James Farley. This was payback to Pendergast for delivering the Kansas City vote to Franklin D. Roosevelt in the 1932 presidential election. The appointment confirmed Pendergast's control over federal patronage jobs in Missouri and marked the zenith of his power. It also created a relationship between Truman and Roosevelt's aide Harry Hopkins and assured Truman's avid support for the New Deal.[79]
+
+U.S. Senator from Missouri
+Inside of wooden desk with several names carved into it
+Drawer from the Senate desk used by Truman
+After serving as a county judge, Truman wanted to run for governor or Congress,[80][81] but Pendergast rejected these ideas. Truman then thought he might serve out his career in some well-paying county sinecure;[81] circumstances changed when Pendergast reluctantly backed him as the machine's choice in the 1934 Democratic primary election for the U.S. Senate from Missouri, after Pendergast's first four choices had declined to run.[82] In the primary, Truman defeated Congressmen John J. Cochran and Jacob L. Milligan with the solid support of Jackson County, which was crucial to his candidacy. Also critical were the contacts he had made statewide in his capacity as a county official, member of the Freemasons, military reservist, and member of the American Legion.[83] In the general election, Truman defeated incumbent Republican Roscoe C. Patterson by nearly 20 percentage points in a continuing wave of pro-New Deal Democrats elected following the Great Depression.[82][84][85]
+
+
+Results of the 1934 U.S. Senate election in Missouri; Truman won the counties in blue
+Truman assumed office with a reputation as "the Senator from Pendergast". He referred patronage decisions to Pendergast but maintained that he voted with his own conscience. He later defended the patronage decisions by saying that "by offering a little to the machine, [he] saved a lot".[85][86] In his first term, Truman spoke out against corporate greed and the dangers of Wall Street speculators and other moneyed special interests attaining too much influence in national affairs.[87] Though he served on the high-profile Appropriations and Interstate Commerce Committees, he was largely ignored by President Roosevelt and had trouble getting calls returned from the White House.[85][88]
+
+During the U.S. Senate election in 1940, U.S. Attorney Maurice Milligan (former opponent Jacob Milligan's brother) and former governor Lloyd Stark both challenged Truman in the Democratic primary. Truman was politically weakened by Pendergast's imprisonment for income tax evasion the previous year; the senator had remained loyal, having claimed that Republican judges (not the Roosevelt administration) were responsible for the boss's downfall.[89] St. Louis party leader Robert E. Hannegan's support of Truman proved crucial; he later brokered the deal that put Truman on the national ticket. In the end, Stark and Milligan split the anti-Pendergast vote in the Senate Democratic primary and Truman won by a total of 8,000 votes. In the November election, Truman defeated Republican Manvel H. Davis by 51–49 percent.[90] As Senator, Truman opposed both Nazi Germany and Communist Russia. Two days after Hitler invaded the Soviet Union in June 1941, he said:
+
+If we see that Germany is winning we ought to help Russia, and if Russia is winning we ought to help Germany, and that way let them kill as many as possible although I don't want to see Hitler victorious under any circumstances.[91]
+
+Truman Committee
+Further information: Truman Committee
+In late 1940, Truman traveled to various military bases. The waste and profiteering he saw led him to use his chairmanship of the Committee on Military Affairs Subcommittee on War Mobilization to start investigations into abuses while the nation prepared for war. A new special committee was set up under Truman to conduct a formal investigation; the Roosevelt administration supported this plan rather than weather a more hostile probe by the House of Representatives. The main mission of the committee was to expose and fight waste and corruption in the gigantic government wartime contracts.
+
+Truman's initiative convinced Senate leaders of the necessity for the committee, which reflected his demands for honest and efficient administration and his distrust of big business and Wall Street. Truman managed the committee "with extraordinary skill" and usually achieved consensus, generating heavy media publicity that gave him a national reputation.[92][93] Activities of the Truman Committee ranged from criticizing the "dollar-a-year men" hired by the government, many of whom proved ineffective, to investigating a shoddily built New Jersey housing project for war workers.[94][95]
+
+The committee reportedly saved as much as $15 billion (equivalent to $220 billion in 2021),[96][97][98][99] and its activities put Truman on the cover of Time magazine.[100] According to the Senate's historical minutes, in leading the committee, "Truman erased his earlier public image as an errand-runner for Kansas City politicos", and "no senator ever gained greater political benefits from chairing a special investigating committee than did Missouri's Harry S. Truman."[101]
+
+Vice presidency (1945)
+See also: 1944 Democratic Party vice presidential candidate selection
+
+Truman visits his mother in Grandview, Missouri, after being nominated the Democratic candidate for vice president, July 1944
+election poster from 1944 with Roosevelt and Truman
+Roosevelt–Truman poster from 1944
+Roosevelt's advisors knew that Roosevelt might not live out a fourth term and that his vice president would very likely become the next president. Henry Wallace had served as Roosevelt's vice president for four years and was popular among Democratic voters, but he was viewed as too far to the left and too friendly to labor for some of Roosevelt's advisers. The President and several of his confidantes wanted to replace Wallace with someone more acceptable to Democratic Party leaders. Outgoing Democratic National Committee chairman Frank C. Walker, incoming chairman Hannegan, party treasurer Edwin W. Pauley, Bronx party boss Ed Flynn, Chicago Mayor Edward Joseph Kelly, and lobbyist George E. Allen all wanted to keep Wallace off the ticket.[102] Roosevelt told party leaders that he would accept either Truman or Supreme Court Justice William O. Douglas.
+
+State and city party leaders strongly preferred Truman, and Roosevelt agreed.[103] Truman had repeatedly said that he was not in the race and that he did not want the vice presidency, and he remained reluctant.[103] One reason was that his wife and sister Mary Jane were both on his Senate staff payroll, and he feared negative publicity.[103] Truman did not campaign for the vice-presidential spot, though he welcomed the attention as evidence that he had become more than the "Senator from Pendergast".[104] Truman's nomination was dubbed the "Second Missouri Compromise" and was well received. The Roosevelt–Truman ticket achieved a 432–99 electoral-vote victory in the election, defeating the Republican ticket of Governor Thomas E. Dewey of New York and running mate Governor John Bricker of Ohio. Truman was sworn in as vice president on January 20, 1945.[105] After the inauguration, Truman called his mother, who instructed him, "Now you behave yourself."[106]
+
+Truman's brief vice-presidency was relatively uneventful. On April 10, 1945,[107] Truman cast his only tie-breaking vote as president of the Senate, against a Robert A. Taft amendment that would have blocked the postwar delivery of Lend-Lease Act items contracted for during the war.[108][109] Roosevelt rarely contacted him, even to inform him of major decisions; the president and vice president met alone together only twice during their time in office.[110]
+
+In one of his first acts as vice president, Truman created some controversy when he attended the disgraced Pendergast's funeral. He brushed aside the criticism, saying simply, "He was always my friend and I have always been his."[17] He had rarely discussed world affairs or domestic politics with Roosevelt; he was uninformed about major initiatives relating to the war and the top-secret Manhattan Project, which was about to test the world's first atomic bomb.[111] In an event that generated negative publicity for Truman, he was photographed with actress Lauren Bacall sitting atop the piano at the National Press Club as he played for soldiers.[112]
+
+Truman had been vice president for 82 days when President Roosevelt died on April 12, 1945.[111] Truman, presiding over the Senate, as usual, had just adjourned the session for the day and was preparing to have a drink in House Speaker Sam Rayburn's office when he received an urgent message to go immediately to the White House, where Eleanor Roosevelt told him that her husband had died after a massive cerebral hemorrhage. Truman asked her if there was anything he could do for her; she replied, "Is there anything we can do for you? For you are the one in trouble now!"[113][114][115] He was sworn in as president at 7:09 pm in the West Wing of the White House, by Chief Justice Harlan F. Stone.[116]
+
+Presidency (1945–1953)
+Main article: Presidency of Harry S. Truman
+Further information: Foreign policy of the Harry S. Truman administration
+Truman delegated a great deal of authority to his cabinet officials, only insisting that he give the final formal approval to all decisions. After getting rid of the Roosevelt holdovers, the cabinet members were mostly old confidants. The White House was badly understaffed with no more than a dozen aides; they could barely keep up with the heavy work flow of a greatly expanded executive department. Truman acted as his own chief of staff on a daily basis, as well as his own liaison with Congress—a body he already knew very well. He was not well prepared to deal with the press, and never achieved the jovial familiarity of FDR. Filled with latent anger about all the setbacks in his career, he bitterly mistrusted the journalists. He saw them as enemies lying in wait for his next careless miscue. Truman was a very hard worker, often to the point of exhaustion, which left him testy, easily annoyed, and on the verge of appearing unpresidential or petty. In terms of major issues, he discussed them in depth with top advisors. He mastered the details of the federal budget as well as anyone. Truman was a poor speaker reading a text. However, his visible anger made him an effective stump speaker, denouncing his enemies as his supporters hollered back at him “Give Em Hell, Harry!”[117]
+
+Truman surrounded himself with his old friends, and appointed several to high positions that seemed well beyond their competence, including his two secretaries of the treasury, Fred Vinson and John Snyder. His closest friend in the White House was his military aide Harry H. Vaughan, who knew little of military or foreign affairs and was criticized for trading access to the White House for expensive gifts.[118][119] Truman loved to spend as much time as possible playing poker, telling stories and sipping bourbon. Alonzo Hamby notes that:
+
+... to many in the general public, gambling and bourbon swilling, however low-key, were not quite presidential. Neither was the intemperant "give 'em hell" campaign style nor the occasional profane phrase uttered in public. Poker exemplified a larger problem: the tension between his attempts at an image of leadership necessarily a cut above the ordinary and an informality that at times appeared to verge on crudeness.[120][121]
+
+First term (1945–1949)
+Assuming office and the atomic bomb
+Further information: Atomic bombings of Hiroshima and Nagasaki
+Three men in suits standing with several men in the background
+Joseph Stalin, Harry S. Truman, and Winston Churchill in Potsdam, July 1945
+On his first full day, Truman told reporters: "Boys, if you ever pray, pray for me now. I don't know if you fellas ever had a load of hay fall on you, but when they told me what happened yesterday, I felt like the moon, the stars, and all the planets had fallen on me."[122]
+
+Truman asked all the members of Roosevelt's cabinet to remain in place, and told them he was open to their advice. He emphasized a central principle of his administration: he would be the one making decisions, and they were to support him.[123] Although Truman was told briefly on the afternoon of April 12 that he had a new, highly destructive weapon, it was not until April 25 that Secretary of War Henry Stimson told him the details. Truman benefited from a honeymoon period from the success in Europe and the nation celebrated V-E Day on May 8, 1945, his 61st birthday.[124][125]
+
+We have discovered the most terrible bomb in the history of the world. It may be the fire destruction prophesied in the Euphrates Valley Era, after Noah and his fabulous Ark.
+
+— Harry Truman, writing about the atomic bomb in his diary[126] on July 25, 1945[127]
+Truman journeyed to Berlin for the Potsdam Conference with Joseph Stalin. He was there when he learned the Trinity test—the first atomic bomb—on July 16 had been successful. He hinted to Stalin that he was about to use a new kind of weapon against the Japanese. Though this was the first time the Soviets had been officially given information about the atomic bomb, Stalin was already aware of the bomb project—having learned about it through atomic espionage long before Truman did.[128][129][130]
+
+In August, the Japanese government refused surrender demands as specifically outlined in the Potsdam Declaration. With the invasion of Japan imminent, Truman approved the schedule for dropping the two available bombs. Truman always said attacking Japan with atomic bombs saved many lives on both sides; military estimates for the invasion of Japan were that it could take a year and result in 250,000 to 500,000 U.S. casualties. Hiroshima was bombed on August 6, and Nagasaki three days later, leaving 105,000 dead.[131] The Soviet Union declared war on Japan on August 9 and invaded Manchuria. Japan agreed to surrender the following day.[132][133]
+
+
+Truman announces Japan's surrender, August 14, 1945
+Supporters[c] of Truman's decision argue that, given the tenacious Japanese defense of the outlying islands, the bombings saved hundreds of thousands of lives of prisoners, civilians, and combatants on both sides that would have been lost in an invasion of Japan. Critics have argued that the use of nuclear weapons was unnecessary, given that conventional attacks or a demonstrative bombing of an uninhabited area would have forced Japan's surrender and therefore assert that the attack constituted a crime of war.[134][135][136] Truman defended his decision to use atomic bombs during the war:
+
+As President of the United States, I had the fateful responsibility of deciding whether or not to use this weapon for the first time. It was the hardest decision I ever had to make. But the President cannot duck hard problems—he cannot pass the buck. I made the decision after discussions with the ablest men in our Government, and after long and prayerful consideration. I decided that the bomb should be used in order to end the war quickly and save countless lives—Japanese as well as American.[137]
+
+Truman continued to strongly defend himself in his memoirs in 1955–1956, stating many lives could have been lost had the United States invaded mainland Japan without the atomic bombs. In 1963, he stood by his decision, telling a journalist "it was done to save 125,000 youngsters on the U.S. side and 125,000 on the Japanese side from getting killed and that is what it did. It probably also saved a half million youngsters on both sides from being maimed for life."[138]
+
+Strikes and economic upheaval
+See also: Strike wave of 1946
+The end of World War II was followed by an uneasy transition from war to a peacetime economy. The costs of the war effort had been enormous, and Truman was intent on diminishing military services as quickly as possible to curtail the government's military expenditures. The effect of demobilization on the economy was unknown, proposals were met with skepticism and resistance, and fears existed that the nation would slide back into depression. In Roosevelt's final years, Congress began to reassert legislative power and Truman faced a congressional body where Republicans and conservative southern Democrats formed a powerful voting bloc.
+
+Dormant stressors during the war emerged as polarizing issues under Truman's administration. Strikes and labor-management conflicts destabilized major industries while severe housing and consumer good shortages added to public stress over inflation which peaked at six percent in a single month.[139]
+
+Truman's response to the widespread dissatisfaction and protest of U.S. citizens was generally seen as ineffective.[139] The cost of consumer goods increased rapidly due to the removal of depression-era limits on the prices of everyday items while producers of the remaining price-controlled commodities struggled due to the artificially low prices of their goods. In 1945 and 1946, farmers refused to sell grain for months even though it was desperately needed in the United States and to stave off starvation in Europe.[140] Similarly, industrial laborers sought wage increases. In January 1946 a steel strike involving 800,000 laborers became the largest in the nation's history. It was followed by a coal strike in April and a rail strike in May; however, public opinion on labor action was mixed with one poll reporting a majority of the public in favor of a ban on strikes by public service workers and a year's moratorium on labor actions.
+
+
+Truman with Greek-American sponge divers in Florida, 1947
+When a national rail strike threatened in May 1946, Truman seized the railroads in an attempt to contain the issue, but two key railway unions struck anyway. The entire national railroad system was shut down, immobilizing 24,000 freight trains and 175,000 passenger trains a day.[141] For two days, public anger mounted and Truman himself drafted an irate message to Congress that called on veterans to form a lynch mob and destroy the union leaders:
+
+Every single one of the strikers and their demagogue leaders have been living in luxury ... Now I want you who are my comrades in arms ... to come with me and eliminate the Lewises, the Whitneys, the Johnstons, the Communist Bridges [all important union officials] and the Russian Senators and Representatives ... Let's put transportation and production back to work, hang a few traitors and make our own country safe for democracy.[142]
+
+His staff was stunned, but top aide Clark Clifford revised the original draft and Truman delivered a toned-down version of the speech to Congress. Truman called for a new law, where any railroad strikers would be drafted into the army. As he concluded his congressional address, he received a message that the strike had been settled on presidential terms; nevertheless, a few hours later, the House voted to draft the strikers. Taft killed the bill in the Senate.[143][144]
+
+After the settlement of the railway strike, labor action continued as an undercurrent of Truman's presidency. The president's approval rating dropped from 82 percent in the polls in January 1946 to 52 percent by June.[145] This dissatisfaction with the Truman administration's policies led to large Democratic losses in the 1946 midterm elections, and Republicans took control of Congress for the first time since 1930. The 80th Congress included Republican freshmen who would become prominent in U.S. politics in the years to come including Wisconsin Senator Joe McCarthy and California Congressman Richard Nixon. When Truman dropped to 32 percent in the polls, Democratic Arkansas Senator William Fulbright suggested that Truman resign; the president said he did not care what Senator "Halfbright" said.[146][147]
+
+Truman cooperated closely with the Republican leaders on foreign policy but fought them bitterly on domestic issues. The power of the labor unions was significantly curtailed by the Taft–Hartley Act which was enacted over Truman's veto. Truman twice vetoed bills to lower income tax rates in 1947. Although the initial vetoes were sustained, Congress overrode his veto of a tax cut bill in 1948. In one notable instance of bipartisanship, Congress passed the Presidential Succession Act of 1947, which replaced the secretary of state with the Speaker of the House and the president pro tempore of the Senate as successor to the president after the vice president.[148]
+
+As he readied for the 1948 election, Truman made clear his identity as a Democrat in the New Deal tradition, advocating for national health insurance,[149] and repeal of the Taft–Hartley Act. He broke with the New Deal by initiating an aggressive civil rights program which he termed a moral priority. His economic and social vision constituted a broad legislative agenda that came to be called the "Fair Deal."[150] Truman's proposals were not well received by Congress, even with renewed Democratic majorities in Congress after 1948. The Solid South rejected civil rights as those states still enforced segregation. Only one of the major Fair Deal bills, the Housing Act of 1949, was ever enacted.[151][152] Many of the New Deal programs that persisted during Truman's presidency have since received minor improvements and extensions.[153]
+
+Marshall Plan, Cold War, and China
+
+Truman's press secretary was his old friend Charles Griffith Ross. He had great integrity but, says Alonzo L. Hamby, as a senior White House aide he was, "A better newsman than news handler, he never established a policy of coordinating news releases throughout the executive branch, frequently bumbled details, never developed ... a strategy for marketing the president's image and failed to establish a strong press office."[154]
+As a Wilsonian internationalist, Truman supported Roosevelt's policy in favor of the creation of the United Nations and included Eleanor Roosevelt on the delegation to the first UN General Assembly.[155] With the Soviet Union expanding its sphere of influence through Eastern Europe, Truman and his foreign policy advisors took a hard line against the USSR. In this, he matched U.S. public opinion which quickly came to believe the Soviets were intent upon world domination.[156]
+
+Although he had little personal expertise on foreign matters, Truman listened closely to his top advisors, especially George Marshall and Dean Acheson. The Republicans controlled Congress in 1947–1948, so he worked with their leaders, especially Senator Arthur H. Vandenburg, chairman of the powerful Foreign Relations Committee.[157] He won bipartisan support for both the Truman Doctrine, which formalized a policy of Soviet containment, and the Marshall Plan, which aimed to help rebuild postwar Europe.[158][159]
+
+To get Congress to spend the vast sums necessary to restart the moribund European economy, Truman used an ideological argument, arguing that communism flourishes in economically deprived areas.[160] As part of the U.S. Cold War strategy, Truman signed the National Security Act of 1947 and reorganized military forces by merging the Department of War and the Department of the Navy into the National Military Establishment (later the Department of Defense) and creating the U.S. Air Force. The act also created the Central Intelligence Agency (CIA) and the National Security Council.[161] In 1952, Truman secretly consolidated and empowered the cryptologic elements of the United States by creating the National Security Agency (NSA).
+
+Truman did not know what to do about China, where the Nationalists and Communists were fighting a large-scale civil war. The Nationalists had been major wartime allies and had large-scale popular support in the United States, along with a powerful lobby. General George Marshall spent most of 1946 in China trying to negotiate a compromise, but failed. He convinced Truman the Nationalists would never win on their own and a very large-scale U.S. intervention to stop the Communists would significantly weaken U.S. opposition to the Soviets in Europe. By 1949, the Communists under Mao Zedong had won the civil war, the United States had a new enemy in Asia, and Truman came under fire from conservatives for "losing" China.[162]
+
+Berlin airlift
+Further information: Berlin Blockade
+On June 24, 1948, the Soviet Union blocked access to the three Western-held sectors of Berlin. The Allies had not negotiated a deal to guarantee supply of the sectors deep within the Soviet-occupied zone. The commander of the U.S. occupation zone in Germany, General Lucius D. Clay, proposed sending a large armored column across the Soviet zone to West Berlin with instructions to defend itself if it were stopped or attacked. Truman believed this would entail an unacceptable risk of war. He approved Ernest Bevin's plan to supply the blockaded city by air.
+
+On June 25, the Allies initiated the Berlin Airlift, a campaign to deliver food, coal and other supplies using military aircraft on a massive scale. Nothing like it had ever been attempted before, and no single nation had the capability, either logistically or materially, to accomplish it. The airlift worked; ground access was again granted on May 11, 1949. Nevertheless, the airlift continued for several months after that. The Berlin Airlift was one of Truman's great foreign policy successes; it significantly aided his election campaign in 1948.[163]
+
+Recognition of Israel
+
+Truman in the Oval Office, receiving a Hanukkah Menorah from the prime minister of Israel, David Ben-Gurion (center). To the right is Abba Eban, ambassador of Israel to the United States
+Truman had long taken an interest in the history of the Middle East and was sympathetic to Jews who sought to re-establish their ancient homeland in Mandatory Palestine. As a senator, he announced support for Zionism; in 1943 he called for a homeland for those Jews who survived the Nazi regime. However, State Department officials were reluctant to offend the Arabs, who were opposed to the establishment of a Jewish state in the large region long populated and dominated culturally by Arabs. Secretary of Defense James Forrestal warned Truman of the importance of Saudi Arabian oil in another war; Truman replied he would decide his policy on the basis of justice, not oil.[164] U.S. diplomats with experience in the region were opposed, but Truman told them he had few Arabs among his constituents.[165]
+
+Palestine was secondary to the goal of protecting the "Northern Tier" of Greece, Turkey, and Iran from communism, as promised by the Truman Doctrine.[166] Weary of both the convoluted politics of the Middle East and pressure by Jewish leaders, Truman was undecided on his policy and skeptical about how the Jewish "underdogs" would handle power.[167][168] He later cited as decisive in his recognition of the Jewish state the advice of his former business partner, Eddie Jacobson, a non-religious Jew whom Truman absolutely trusted.[165]
+
+Truman decided to recognize Israel over the objections of Secretary of State George Marshall, who feared it would hurt relations with the populous Arab states. Marshall believed the paramount threat to the United States was the Soviet Union and feared Arab oil would be lost to the United States in the event of war; he warned Truman the United States was "playing with fire with nothing to put it out".[169] Truman recognized the State of Israel on May 14, 1948, eleven minutes after it declared itself a nation.[170][171] Of his decision to recognize the Israeli state, Truman said in an interview years later: "Hitler had been murdering Jews right and left. I saw it, and I dream about it even to this day. The Jews needed some place where they could go. It is my attitude that the American government couldn't stand idly by while the victims [of] Hitler's madness are not allowed to build new lives."[172]
+
+NAACP speech
+Under his predecessor, Franklin D. Roosevelt, the Fair Employment Practices Committee was created to address racial discrimination in employment,[173] and in 1946, Truman created the President's Committee on Civil Rights. On June 29, 1947, Truman became the first president to address the National Association for the Advancement of Colored People (NAACP). The speech took place at the Lincoln Memorial during the NAACP convention and was carried nationally on radio. In that speech, Truman laid out the need to end discrimination, which would be advanced by the first comprehensive, presidentially proposed civil rights legislation. Truman on "civil rights and human freedom", declared:[174]
+
+It is my deep conviction that we have reached a turning point in the long history of our country’s efforts to guarantee freedom and equality to all our citizens … it is more important today than ever before to ensure that all Americans enjoy these rights. … [And] When I say all Americans, I mean all Americans … Our immediate task is to remove the last remnants of the barriers which stand between millions of our citizens and their birthright. There is no justifiable reason for discrimination because of ancestry, or religion, or race, or color. We must not tolerate such limitations on the freedom of any of our people and on their enjoyment of basic rights which every citizen in a truly democratic society must possess. Every man should have the right to a decent home, the right to an education, the right to adequate medical care, the right to a worthwhile job, the right to an equal share in making the public decisions through the ballot, and the right to a fair trial in a fair court. We must ensure that these rights — on equal terms — are enjoyed by every citizen. To these principles I pledge my full and continued support. Many of our people still suffer the indignity of insult, the harrowing fear of intimidation, and, I regret to say, the threat of physical injury and mob violence. Prejudice and intolerance in which these evils are rooted still exist. The conscience of our nation, and the legal machinery which enforces it, have not yet secured to each citizen full freedom from fear.
+
+In February 1948, Truman delivered a formal message to Congress requesting adoption of his 10-point program to secure civil rights, including anti-lynching, voter rights, and elimination of segregation. "'No political act since the Compromise of 1877,' argued biographer Taylor Branch, 'so profoundly influenced race relations; in a sense it was a repeal of 1877.'"[175]
+
+1948 election
+Main article: Harry S. Truman 1948 presidential campaign
+Further information: 1948 United States presidential election
+
+President Truman (left) with Governor Dewey (right) at dedication of the Idlewild Airport; meeting for the first time since nominated by their respective parties for the Presidency.
+The 1948 presidential election is remembered for Truman's stunning come-from-behind victory.[176] In the spring of 1948, Truman's public approval rating stood at 36 percent,[177] and the president was nearly universally regarded as incapable of winning the general election. The "New Deal" operatives within the party—including FDR's son, James Roosevelt—tried to swing the Democratic nomination to General Dwight D. Eisenhower, a highly popular figure whose political views and party affiliation were totally unknown. Eisenhower emphatically refused to accept, and Truman outflanked opponents to his own nomination.[176]
+
+At the 1948 Democratic National Convention, Truman attempted to unify the party with a vague civil rights plank in the party platform. His intention was to assuage the internal conflicts between the northern and southern wings of his party. Events overtook his efforts. A sharp address given by Mayor Hubert Humphrey of Minneapolis—as well as the local political interests of a number of urban bosses—convinced the convention to adopt a stronger civil rights plank, which Truman approved wholeheartedly. All of Alabama's delegates, and a portion of Mississippi's, walked out of the convention in protest.[178] Unfazed, Truman delivered an aggressive acceptance speech attacking the 80th Congress, which Truman called the "Do Nothing Congress,"[139] and promising to win the election and "make these Republicans like it."[179]
+
+Republicans approve of the American farmer, but they are willing to help him go broke. They stand four-square for the American home—but not for housing. They are strong for labor—but they are stronger for restricting labor's rights. They favor minimum wage—the smaller the minimum wage the better. They endorse educational opportunity for all—but they won't spend money for teachers or for schools. They think modern medical care and hospitals are fine—for people who can afford them ... They think American standard of living is a fine thing—so long as it doesn't spread to all the people. And they admire the Government of the United States so much that they would like to buy it.
+
+— Harry S. Truman, October 13, 1948, St. Paul, Minnesota, Radio Broadcast[180][181][182][183]
+Within two weeks of the 1948 convention Truman issued Executive Order 9981, racially integrating the U.S. Armed Services[184][185][186] and Executive Order 9980 to integrate federal agencies. Truman took a considerable political risk in backing civil rights, and many seasoned Democrats were concerned the loss of Dixiecrat support might destroy the Democratic Party. South Carolina Governor Strom Thurmond, a segregationist, declared his candidacy for the presidency on a Dixiecrat ticket and led a full-scale revolt of Southern "states' rights" proponents. This rebellion on the right was matched by one on the left, led by Wallace on the Progressive Party ticket. Immediately after its first post-FDR convention, the Democratic Party seemed to be disintegrating. Victory in November seemed unlikely as the party was not simply split but divided three ways.[187] For his running mate, Truman accepted Kentucky Senator Alben W. Barkley, though he really wanted Justice William O. Douglas, who turned down the nomination.[188]
+
+Truman's political advisors described the political scene as "one unholy, confusing cacophony." They told Truman to speak directly to the people, in a personal way.[189] Campaign manager William J. Bray said Truman took this advice, and spoke personally and passionately, sometimes even setting aside his notes to talk to Americans "of everything that is in my heart and soul."[190]
+
+The campaign was a 21,928-mile (35,290 km) presidential odyssey.[191] In a personal appeal to the nation, Truman crisscrossed the United States by train; his "whistle stop" speeches from the rear platform of the observation car, Ferdinand Magellan, came to represent his campaign. His combative appearances captured the popular imagination and drew huge crowds. Six stops in Michigan drew a combined half-million people;[192] a full million turned out for a New York City ticker-tape parade.[193]
+
+
+1948 electoral vote results
+Truman holding Chicago Tribune that says "Dewey Defeats Truman"
+Truman was so widely expected to lose the 1948 election that the Chicago Tribune had printed papers with this erroneous headline when few returns were in.
+The large, mostly spontaneous gatherings at Truman's whistle-stop events were an important sign of a change in momentum in the campaign, but this shift went virtually unnoticed by the national press corps. It continued reporting Republican Thomas Dewey's apparent impending victory as a certainty. The three major polling organizations stopped polling well before the November 2 election date—Roper in September, and Crossley and Gallup in October—thus failing to measure the period when Truman appears to have surged past Dewey.[194][195]
+
+In the end, Truman held his progressive Midwestern base, won most of the Southern states despite the civil rights plank, and squeaked through with narrow victories in a few critical states, notably Ohio, California, and Illinois. The final tally showed the president had secured 303 electoral votes, Dewey 189, and Thurmond only 39. Henry Wallace got none. The defining image of the campaign came after Election Day, when an ecstatic Truman held aloft the erroneous front page of the Chicago Tribune with a huge headline proclaiming "Dewey Defeats Truman."[196]
+
+Full elected term (1949–1953)
+Truman's second inauguration was the first ever televised nationally.[197]
+
+Hydrogen bomb decision
+The Soviet Union's atomic bomb project progressed much faster than had been expected,[198] and they detonated their first bomb on August 29, 1949. Over the next several months there was an intense debate that split the U.S. government, military, and scientific communities regarding whether to proceed with the development of the far more powerful hydrogen bomb.[199] The debate touched on matters from technical feasibility to strategic value to the morality of creating a massively destructive weapon.[200][201] On January 31, 1950, Truman made the decision to go forward on the grounds that if the Soviets could make an H-bomb, the United States must do so as well and stay ahead in the nuclear arms race.[202][203] The development achieved fruition with the first U.S. H-bomb test on October 31, 1952, which was officially announced by Truman on January 7, 1953.[204]
+
+Korean War
+Further information: Korean War
+
+President Truman signing a proclamation declaring a national emergency and authorizing U.S. entry into the Korean War
+On June 25, 1950, the North Korean army under Kim Il-sung invaded South Korea, starting the Korean War. In the early weeks of the war, the North Koreans easily pushed back their southern counterparts.[205] Truman called for a naval blockade of Korea, only to learn that due to budget cutbacks, the U.S. Navy could not enforce such a measure.[206] Truman promptly urged the United Nations to intervene; it did, authorizing troops under the UN flag led by U.S. General Douglas MacArthur. Truman decided he did not need formal authorization from Congress, believing that most legislators supported his position; this would come back to haunt him later when the stalemated conflict was dubbed "Mr. Truman's War" by legislators.[205]
+
+However, on July 3, 1950, Truman did give Senate Majority Leader Scott W. Lucas a draft resolution titled "Joint Resolution Expressing Approval of the Action Taken in Korea". Lucas stated Congress supported the use of force, the formal resolution would pass but was unnecessary, and the consensus in Congress was to acquiesce. Truman responded he did not want "to appear to be trying to get around Congress and use extra-Constitutional powers," and added that it was "up to Congress whether such a resolution should be introduced."[207]
+
+By August 1950, U.S. troops pouring into South Korea under UN auspices were able to stabilize the situation.[208] Responding to criticism over readiness, Truman fired his secretary of defense, Louis A. Johnson, replacing him with the retired General Marshall. With UN approval, Truman decided on a "rollback" policy—conquest of North Korea.[209] UN forces led by General Douglas MacArthur led the counterattack, scoring a stunning surprise victory with an amphibious landing at the Battle of Inchon that nearly trapped the invaders. UN forces marched north, toward the Yalu River boundary with China, with the goal of reuniting Korea under UN auspices.[210]
+
+China surprised the UN forces with a large-scale invasion in November. The UN forces were forced back to below the 38th parallel, then recovered.[211] By early 1951 the war became a fierce stalemate at about the 38th parallel where it had begun. Truman rejected MacArthur's request to attack Chinese supply bases north of the Yalu, but MacArthur promoted his plan to Republican House leader Joseph Martin, who leaked it to the press. Truman was gravely concerned further escalation of the war might lead to open conflict with the Soviet Union, which was already supplying weapons and providing warplanes (with Korean markings and Soviet aircrew). Therefore, on April 11, 1951, Truman fired MacArthur from his commands.[212]
+
+I fired him [MacArthur] because he wouldn't respect the authority of the President ... I didn't fire him because he was a dumb son of a bitch, although he was, but that's not against the law for generals. If it was, half to three-quarters of them would be in jail.[213]
+
+—Truman to biographer Merle Miller, 1972, posthumously quoted in Time magazine, 1973
+The dismissal of General Douglas MacArthur was among the least politically popular decisions in presidential history. Truman's approval ratings plummeted, and he faced calls for his impeachment from, among others, Senator Robert A. Taft.[214] Fierce criticism from virtually all quarters accused Truman of refusing to shoulder the blame for a war gone sour and blaming his generals instead. Others, including Eleanor Roosevelt and all of the Joint Chiefs of Staff, publicly supported Truman's decision. MacArthur meanwhile returned to the United States to a hero's welcome, and addressed a joint session of Congress, a speech the president called "a bunch of damn bullshit."[215]
+
+Truman and his generals considered the use of nuclear weapons against the Chinese army, but ultimately chose not to escalate the war to a nuclear level.[216] The war remained a frustrating stalemate for two years, with over 30,000 Americans killed, until an armistice ended the fighting in 1953.[217] In February 1952, Truman's approval mark stood at 22 percent according to Gallup polls, which is the all-time lowest approval mark for a sitting U.S. president, though it was matched by Richard Nixon in 1974.[218][219]
+
+Worldwide defense
+
+Truman and Indian Prime Minister Jawaharlal Nehru during Nehru's visit to the United States, October 1949
+The escalation of the Cold War was highlighted by Truman's approval of NSC 68, a secret statement of foreign policy. It called for tripling the defense budget, and the globalization and militarization of containment policy whereby the United States and its NATO allies would respond militarily to actual Soviet expansion. The document was drafted by Paul Nitze, who consulted State and Defense officials and was formally approved by President Truman as the official national strategy after the war began in Korea. It called for partial mobilization of the U.S. economy to build armaments faster than the Soviets. The plan called for strengthening Europe, weakening the Soviet Union, and building up the United States both militarily and economically.[220]
+
+
+Truman and Shah of Iran Mohammad Reza Pahlavi speaking at Washington National Airport, during ceremonies welcoming him to the United States
+Truman was a strong supporter of the North Atlantic Treaty Organization (NATO), which established a formal peacetime military alliance with Canada and democratic European nations not under Soviet control following World War II. The treaty establishing it was widely popular and easily passed the Senate in 1949; Truman appointed General Eisenhower as commander. NATO's goals were to contain Soviet expansion in Europe and to send a clear message to communist leaders that the world's democracies were willing and able to build new security structures in support of democratic ideals. The United States, Britain, France, Italy, the Netherlands, Belgium, Luxembourg, Norway, Denmark, Portugal, Iceland, and Canada were the original treaty signatories. The alliance resulted in the Soviets establishing a similar alliance, called the Warsaw Pact.[221][222]
+
+General Marshall was Truman's principal adviser on foreign policy matters, influencing such decisions as the U.S. choice against offering direct military aid to Chiang Kai-shek and his nationalist Chinese forces in the Chinese Civil War against their communist opponents. Marshall's opinion was contrary to the counsel of almost all of Truman's other advisers; Marshall thought propping up Chiang's forces would drain U.S. resources necessary for Europe to deter the Soviets.[223] When the communists took control of the mainland, establishing the People's Republic of China and driving the nationalists to Taiwan, Truman would have been willing to maintain some relationship between the United States and the new government but Mao was unwilling.[224] Truman announced on January 5, 1950, that the United States would not engage in any dispute involving the Taiwan Strait, and that he would not intervene in the event of an attack by the PRC.[225]
+
+On June 27, 1950, after the outbreak of fighting in Korea, Truman ordered the U.S. Navy's Seventh Fleet into the Taiwan Strait to prevent further conflict between the communist government on the China mainland and the Republic of China (ROC) on Taiwan.[226][227]
+
+Truman usually worked well with his top staff - the exceptions were Israel in 1948 and Spain in 1945–1950. Truman was a very strong opponent of Francisco Franco, the right-wing dictator of Spain. He withdrew the American ambassador (but diplomatic relations were not formally broken), kept Spain out of the UN, and rejected any Marshall Plan financial aid to Spain. However, as the Cold War escalated, support for Spain was strong in Congress, the Pentagon, the business community and other influential elements especially Catholics and cotton growers.
+
+Liberal opposition to Spain had faded after the Wallace element broke with the Democratic Party in 1948; the CIO became passive on the issue. As Secretary of State Acheson increased his pressure on Truman, the president stood alone in his administration as his own top appointees wanted to normalize relations. When China entered the Korean War and pushed American forces back, the argument for allies became irresistible. Admitting he was "overruled and worn down," Truman relented and sent an ambassador and made loans available.[228]
+
+Soviet espionage and McCarthyism
+
+Official portrait of President Truman by Greta Kempton, c. 1945
+In August 1948, Whittaker Chambers, a former spy for the Soviets and a senior editor at Time magazine, testified before the House Un-American Activities Committee (HUAC). He said an underground communist network had worked inside the U.S. government during the 1930s, of which Chambers had been a member, along with Alger Hiss, until recently a senior State Department official. Chambers did not allege any spying during the Truman presidency. Although Hiss denied the allegations, he was convicted in January 1950 for perjury for denials under oath.
+
+The Soviet Union's success in exploding an atomic weapon in 1949 and the fall of the nationalist Chinese the same year led many Americans to conclude subversion by Soviet spies was responsible and to demand that communists be rooted out from the government and other places of influence.[229][230] Hoping to contain these fears, Truman began a "loyalty program" with Executive Order 9835 in 1947.[231] However, Truman got himself into deeper trouble when he called the Hiss trial a "red herring".[232][233] Wisconsin Senator Joseph McCarthy accused the State Department of harboring communists and rode the controversy to political fame,[234] leading to the Second Red Scare,[235] also known as McCarthyism. McCarthy's stifling accusations made it difficult to speak out against him. This led President Harry Truman to call McCarthy "the greatest asset the Kremlin has" by "torpedo[ing] the bipartisan foreign policy of the United States."[236]
+
+Charges that Soviet agents had infiltrated the government were believed by 78 percent of the people in 1946 and became a major campaign issue for Eisenhower in 1952.[237] Truman was reluctant to take a more radical stance, because he felt it could threaten civil liberties and add to a potential hysteria. At the same time, he felt political pressure to indicate a strong national security.[238] It is unclear to what extent President Truman was briefed of the Venona intercepts, which discovered widespread evidence of Soviet espionage on the atom bomb project and afterward.[239][240] Truman continued his own loyalty program for some time while believing the issue of communist espionage was overstated.[239] In 1949, Truman described American communist leaders, whom his administration was prosecuting, as "traitors",[238] but in 1950 he vetoed the McCarran Internal Security Act. It was passed over his veto.[241] Truman would later state in private conversations with friends that his creation of a loyalty program had been a "terrible" mistake.[242]
+
+Blair House and assassination attempt
+Main articles: White House Reconstruction and Attempted assassination of Harry S. Truman
+Inside of a building being renovated, with scaffolding
+View of the interior shell of the White House during renovation in 1950
+In 1948, Truman ordered an addition to the exterior of the White House: a second-floor balcony in the south portico, which came to be known as the Truman Balcony. The addition was unpopular. Some said it spoiled the appearance of the south facade, but it gave the First Family more living space.[243][244] [245] Meanwhile, structural deterioration and a near-imminent collapse of the White House led to a comprehensive dismantling and rebuilding of the building's interior from 1949 to 1952. Architectural and engineering investigations during 1948 deemed it unsafe for occupancy. President Harry S. Truman, his family, and the entire residence staff were relocated across the street into Blair House during the renovations. As the newer West Wing, including the Oval Office, remained open, Truman walked to and from his work across the street each morning and afternoon.[246]
+
+External video
+video icon Newsreel scenes in English of the assassination attempt on U.S. President Harry S. Truman
+On November 1, 1950, Puerto Rican nationalists Griselio Torresola and Oscar Collazo attempted to assassinate Truman at Blair House. On the street outside the residence, Torresola mortally wounded a White House policeman, Leslie Coffelt. Before he died, the officer shot and killed Torresola. Collazo was wounded and stopped before he entered the house. He was found guilty of murder and sentenced to death in 1952. Truman commuted his sentence to life in prison. To try to settle the question of Puerto Rican independence, Truman allowed a plebiscite in Puerto Rico in 1952 to determine the status of its relationship to the United States. Nearly 82 percent of the people voted in favor of a new constitution for the Estado Libre Asociado, a continued 'associated free state.'[247]
+
+Steel and coal strikes
+Further information: 1952 steel strike
+In response to a labor/management impasse arising from bitter disagreements over wage and price controls, Truman instructed his Secretary of Commerce, Charles W. Sawyer, to take control of a number of the nation's steel mills in April 1952. Truman cited his authority as Commander in Chief and the need to maintain an uninterrupted supply of steel for munitions for the war in Korea. The Supreme Court found Truman's actions unconstitutional, however, and reversed the order in a major separation-of-powers decision, Youngstown Sheet & Tube Co. v. Sawyer (1952). The 6–3 decision, which held that Truman's assertion of authority was too vague and was not rooted in any legislative action by Congress, was delivered by a Court composed entirely of Justices appointed by either Truman or Roosevelt. The high court's reversal of Truman's order was one of the notable defeats of his presidency.[248]
+
+Scandals and controversies
+
+Truman in an official portrait
+In 1950, the Senate, led by Estes Kefauver, investigated numerous charges of corruption among senior administration officials, some of whom received fur coats and deep freezers in exchange for favors. A large number of employees of the Internal Revenue Bureau (today the IRS) were accepting bribes; 166 employees either resigned or were fired in 1950,[249] with many soon facing indictment. When Attorney General J. Howard McGrath fired the special prosecutor in early 1952 for being too zealous, Truman fired McGrath.[250] Truman submitted a reorganization plan to reform the IRB; Congress passed it, but corruption was a major issue in the 1952 presidential election.[251][252]
+
+On December 6, 1950, Washington Post music critic Paul Hume wrote a critical review of a concert by the president's daughter Margaret Truman:
+
+Miss Truman is a unique American phenomenon with a pleasant voice of little size and fair quality ... [she] cannot sing very well ... is flat a good deal of the time—more last night than at any time we have heard her in past years ... has not improved in the years we have heard her ... [and] still cannot sing with anything approaching professional finish.[253]
+
+Truman wrote a scathing response:
+
+I've just read your lousy review of Margaret's concert. I've come to the conclusion that you are an 'eight ulcer man on four ulcer pay.' It seems to me that you are a frustrated old man who wishes he could have been successful. When you write such poppy-cock as was in the back section of the paper you work for it shows conclusively that you're off the beam and at least four of your ulcers are at work. Some day I hope to meet you. When that happens you'll need a new nose, a lot of beefsteak for black eyes, and perhaps a supporter below! Pegler, a gutter snipe, is a gentleman alongside you. I hope you'll accept that statement as a worse insult than a reflection on your ancestry.[253]
+
+Truman was criticized by many for the letter. However, he pointed out that he wrote it as a loving father and not as the president.[254][255][256]
+
+In 1951, William M. Boyle, Truman's longtime friend and chairman of the Democratic National Committee, was forced to resign after being charged with financial corruption.[257]
+
+Civil rights
+Further information: President's Committee on Civil Rights
+A 1947 report by the Truman administration titled To Secure These Rights presented a detailed ten-point agenda of civil rights reforms. Speaking about this report, international developments have to be taken into account, for with the UN Charter being passed in 1945, the question of whether international human rights law could be applicable also on an inner-land basis became crucial in the United States. Though the report acknowledged such a path was not free from controversy in the 1940s United States, it nevertheless raised the possibility for the UN-Charter to be used as a legal tool to combat racial discrimination in the United States.[258]
+
+In February 1948, the president submitted a civil rights agenda to Congress that proposed creating several federal offices devoted to issues such as voting rights and fair employment practices.[259] This provoked a storm of criticism from southern Democrats in the runup to the national nominating convention, but Truman refused to compromise, saying: "My forebears were Confederates ... but my very stomach turned over when I had learned that Negro soldiers, just back from overseas, were being dumped out of Army trucks in Mississippi and beaten."[260]
+
+Tales of the abuse, violence, and persecution suffered by many African-American veterans upon their return from World War II infuriated Truman and were major factors in his decision to issue Executive Order 9981, in July 1948, requiring equal opportunity in the armed forces.[261] In the early 1950s after several years of planning, recommendations and revisions between Truman, the Committee on Equality of Treatment and Opportunity and the various branches of the military, the services became racially integrated.[262]
+
+Executive Order 9980, also in 1948, made it illegal to discriminate against persons applying for civil service positions based on race. A third, in 1951, established the Committee on Government Contract Compliance, which ensured defense contractors did not discriminate because of race.[263][264] In 1950 he vetoed the McCarran Internal Security Act. It was passed over his veto.[265]
+
+Administration and cabinet
+Main article: Presidency of Harry S. Truman § Administration and cabinet
+International trips
+Main article: Presidency of Harry S. Truman § International trips
+Truman made five international trips during his presidency.[266]
+
+1952 election
+Further information: 1952 United States presidential election
+Three men at a desk reviewing a document
+President Truman; Alabama Senator John J. Sparkman, vice presidential nominee; and Illinois Governor Adlai Stevenson, presidential nominee, in the Oval Office, 1952
+In 1951, the United States ratified the 22nd Amendment, making a president ineligible for election to a third term or for election to a second full term after serving more than two remaining years of a term of a previously elected president. The latter clause did not apply to Truman's situation in 1952 because of a grandfather clause excluding the amendment's application to the incumbent president.[267]
+
+
+President Truman conferring with labor leader Walter Reuther about economic policy in the Oval Office, 1952
+Therefore, he seriously considered running for another term in 1952 and left his name on the ballot in the New Hampshire primary. However all his close advisors, pointing to his age, his failing abilities, and his poor showing in the polls, talked him out of it.[268] At the time of the 1952 New Hampshire primary, no candidate had won Truman's backing. His first choice, Chief Justice Fred M. Vinson, had declined to run; Illinois Governor Adlai Stevenson had also turned Truman down, Vice President Barkley was considered too old,[269][270] and Truman distrusted and disliked Senator Kefauver, who had made a name for himself by his investigations of the Truman administration scandals.
+
+Truman had hoped to recruit General Eisenhower as a Democratic candidate but found him more interested in seeking the Republican nomination. Accordingly, Truman let his name be entered in the New Hampshire primary by supporters. The highly unpopular Truman was handily defeated by Kefauver; 18 days later the president formally announced he would not seek a second full term. Truman was eventually able to persuade Stevenson to run, and the governor gained the nomination at the 1952 Democratic National Convention.[271]
+
+
+Harry S. Truman's Farewell Address (24:32)
+MENU0:00
+Truman's speech on leaving office, and returning home to Independence, Missouri. (January 15, 1953)
+Problems playing this file? See media help.
+Eisenhower gained the Republican nomination, with Senator Nixon as his running mate, and campaigned against what he denounced as Truman's failures: "Korea, communism and corruption". He pledged to clean up the "mess in Washington," and promised to "go to Korea."[269][270] Eisenhower defeated Stevenson decisively in the general election, ending 20 years of Democratic presidents. While Truman and Eisenhower had previously been on good terms, Truman felt annoyed that Eisenhower did not denounce Joseph McCarthy during the campaign.[272] Similarly, Eisenhower was outraged when Truman accused the former general of disregarding "sinister forces ... Anti-Semitism, anti-Catholicism, and anti-foreignism" within the Republican Party.[273]
+
+Post-presidency (1953–1972)
+Financial situation
+Two men at a desk with a document one is signing with their wives standing behind them
+Truman and his wife Bess attend the signing of the Medicare Bill on July 30, 1965, by President Lyndon B. Johnson
+Before being elected as Jackson County judge, Truman had earned little money, and was in debt from the failure of his haberdashery. His election as senator in 1934 carried with it a salary of $10,000, high for the time, but the need to maintain two homes, with one in expensive Washington, Margaret Truman's college expenses, and contributions to the support of needy relatives, left the Trumans little extra money. He probably had about $7,500 in cash and government bonds when nominated for vice president.[274]
+
+His finances were transformed by his accession to the presidency, which carried with it a salary of $75,000, which was increased to $100,000 in 1949. This was more than any Major League Baseball star except Joe DiMaggio, who also earned $100,000 in his final two seasons (1950 and 1951). Beginning in 1949, the president was also granted a $50,000 expense allowance, which was initially tax-free, and did not have to be accounted for. Although the allowance became taxable later in his presidency, Truman never reported it on his tax return, and converted some of the funds to cash he kept in the White House safe and later in a safe deposit box in Kansas City.[274]
+
+Upon leaving the presidency, Truman returned to Independence, Missouri, to live at the Wallace home he and Bess had shared for years with her mother.[275] In a biography that contributed greatly to the myth that Truman was near penury after departing the White House,[274] McCullough stated that the Trumans had little alternative than to return to Independence, for his only income was his army pension of $112.56 per month (equivalent to $1,140 in 2021), and he had only been able to save a modest amount from his salary as president.[276] In February 1953, Truman signed a book deal for his memoirs, and in a draft will dated December of that year listed land worth $250,000, savings bonds of the same amount, and cash of $150,000.[274] He wrote, "Bonds, land, and cash all come from savings of presidential salary and free expense account. It should keep you and Margaret comfortably."[274]
+
+The writing of the memoirs was a struggle for Truman and he went through a dozen collaborators during the project,[277] not all of whom served him well,[278] but he remained heavily involved in the end result.[279] For the memoirs, Truman received a payment of $670,000 (equivalent to $6,785,833 in 2021).[280] The memoirs were a commercial and critical success.[281][282] They were published in two volumes: Memoirs by Harry S. Truman: Year of Decisions (1955) and Memoirs by Harry S. Truman: Years of Trial and Hope (1956).[283][284]
+
+Former members of Congress and the federal courts received a federal retirement package; President Truman himself ensured that former servants of the executive branch of government received similar support. In 1953, however, there was no such benefit package for former presidents, and Congressional pensions were not approved until 1946, after Truman had left the Senate, so he received no pension for his Senate service.[285] Truman, behind the scenes, lobbied for a pension, writing to congressional leaders that he had been near penury but for the sale of family farmlands.[274] In 1958, Congress passed the Former Presidents Act, offering a $25,000 (equivalent to $253,203 in 2021) yearly pension to each former president, and it is likely that Truman's claim to be in difficult financial straits played a role in the law's enactment.[286] The only other living former president at the time, Herbert Hoover, also took the pension, even though he did not need the money; reportedly, he did so to avoid embarrassing Truman.[287]
+
+Truman's net worth improved further in 1958 when his siblings and he sold most of the family farm to a Kansas City real estate developer.[288] When he was serving as a county judge, Truman borrowed $31,000 (equivalent to $313,971 in 2021) by mortgaging the farm to the county school fund, which was legal at the time.[288] When Republicans controlled the court in 1940, they foreclosed in an effort to embarrass Truman politically, and his mother and sister Mary Jane had to vacate the home.[288] In 1945, Truman organized a syndicate of supporters who purchased the farm with the understanding that they would sell it back to the Trumans.[288] Harry and Vivian Truman purchased 87 acres in 1945, and Truman purchased another portion in 1946.[288] In January 1959, Truman calculated his net worth as $1,046,788.86, including a share in the Los Angeles Rams football team. Nevertheless, the Trumans always lived modestly in Independence, and when Bess Truman died in 1982, almost a decade after her husband, the house was found to be in poor condition due to deferred maintenance.[274]
+
+Bess Truman's personal papers were made public in 2009,[289] including financial records and tax returns. The myth that Truman had been in straitened circumstances after his presidency was slow to dissipate; Paul Campos wrote in 2021, "The current, 20,000-plus-word Wikipedia biography of Truman goes so far as to assert that, because his earlier business ventures had failed, Truman left the White House with 'no personal savings.'[d] Every aspect of this narrative is false.[274]
+
+Truman Library and academic positions
+See also: Harry S. Truman Presidential Library and Museum
+Truman's predecessor, Franklin D. Roosevelt, had organized his own presidential library, but legislation to enable future presidents to do something similar had not been enacted. Truman worked to garner private donations to build a presidential library, which he donated to the federal government to maintain and operate—a practice adopted by his successors.[290]
+
+He testified before Congress to have money appropriated to have presidential papers copied and organized, and was proud of the bill's passage in 1957. Max Skidmore, in his book on the life of former presidents, wrote that Truman was a well-read man, especially in history. Skidmore added that the presidential papers legislation and the founding of his library "was the culmination of his interest in history. Together they constitute an enormous contribution to the United States—one of the greatest of any former president."[291]
+
+Truman taught occasional courses at universities, including Yale, where he was a Chubb Fellow visiting lecturer in 1958.[292] In 1962, Truman was a visiting lecturer at Canisius College.[293]
+
+Politics
+Truman supported Adlai Stevenson's second bid for the White House in 1956, although he had initially favored Democratic Governor W. Averell Harriman of New York.[294] He continued to campaign for Democratic senatorial candidates for many years.[295]
+
+In 1960 Truman gave a public statement announcing he would not attend the Democratic Convention that year, citing concerns about the way that the supporters of John F. Kennedy had gained control of the nominating process, and called on Kennedy to forgo the nomination for that year.[296] Kennedy responded with a press conference where he bluntly rebuffed Truman's advice.[297]
+
+Despite his supportive stance on civil rights during his presidency, Truman expressed criticism of the civil rights movement during the 1960s. In 1960, he stated that he believed the sit-in movement to be part of a Soviet plot.[298] Truman's statement garnered a response from Martin Luther King Jr., who wrote a letter to Truman stating that he was "baffled" by Truman's accusation, and demanded a public apology.[299] Truman would later criticize King following the Selma march in 1965, believing the protest to be "silly" and claiming that it "[couldn't] accomplish a darn thing except to attract attention."[300]
+
+Upon turning 80 in 1964, Truman was feted in Washington, and addressed the Senate, availing himself of a new rule that allowed former presidents to be granted privilege of the floor.[301]
+
+Medicare
+After a fall in his home in late 1964, Truman's physical condition declined. In 1965, President Lyndon B. Johnson signed the Medicare bill at the Harry S. Truman Presidential Library and Museum and gave the first two Medicare cards to Truman and his wife Bess to honor the former president's fight for government health care while in office.[295]
+
+Death
+
+Wreath by Truman's casket, December 27, 1972
+On December 5, 1972, Truman was admitted to Kansas City's Research Hospital and Medical Center with pneumonia. He developed multiple organ failure, fell into a coma, and died at 7:50 a.m. on December 26, at the age of 88.[302][275]
+
+Bess Truman opted for a simple private service at the library rather than a state funeral in Washington. A week after the funeral, foreign dignitaries and Washington officials attended a memorial service at Washington National Cathedral.
+
+Bess died in 1982 and is buried next to Harry at the Harry S. Truman Library and Museum in Independence, Missouri.[303][304]
+
+Tributes and legacy
+Biographer Robert Donovan has tried to capture Truman's personality:
+
+Vigorous, hard-working, simple, he had grown up close to the soil of the Midwest and understood the struggles of the people on the farms and in the small towns. ... After 10 years in the Senate, he had risen above the Pendergast organization. Still, he had come from a world of two-bit politicians, and its aura was one that he never was able to shed entirely. And he did retain certain characteristics one often sees in machine-bred politicians: intense partisanship, stubborn loyalty, a certain insensitivity about the transgressions of political associates, and a disinclination for the companionship of intellectuals and artists.[305]
+
+Legacy
+Man in suit sitting behind desk with sign that says "The buck stops here"
+Truman poses in 1959 at the recreation of the Truman Oval Office at his presidential library, with the famous "The Buck Stops Here" sign on his desk. (The reverse of the sign says, "I'm From Missouri".)[306] Attendees to meetings where Truman would have to make a major decision would sometimes see the president looking at the sign.[307]
+Citing continuing divisions within the Democratic Party, the ongoing Cold War, and the boom and bust cycle, journalist Samuel Lubell in 1952 stated: "After seven years of Truman's hectic, even furious, activity the nation seemed to be about on the same general spot as when he first came to office ... Nowhere in the whole Truman record can one point to a single, decisive break-through ... All his skills and energies—and he was among our hardest-working Presidents—were directed to standing still."[308] When he left office in 1953, Truman was one of the most unpopular chief executives in history. His job approval rating of 22% in the Gallup Poll of February 1952 was lower than Richard Nixon's 24% in August 1974, the month Nixon resigned, but matched by Nixon's all-time low in January 1974.[219]
+
+
+Harry S. Truman Presidential Library and Museum in Independence, Missouri
+U.S. public feeling towards Truman grew steadily warmer with the passing years; as early as 1962, a poll of 75 historians conducted by Arthur M. Schlesinger Sr. ranked Truman among the "near great" presidents. The period following his death consolidated a partial rehabilitation of his legacy among both historians and members of the public.[309] Truman died when the nation was consumed with crises in Vietnam and Watergate, and his death brought a new wave of attention to his political career.[213] In the early and mid-1970s, Truman captured the popular imagination much as he had in 1948, this time emerging as a kind of political folk hero, a president who was thought to exemplify integrity and accountability which many observers felt was lacking in the Nixon White House. This public reassessment of Truman was aided by the popularity of a book of reminiscences Truman had recounted to journalist Merle Miller beginning in 1961, with the agreement that they would not be published until after Truman's death.[310]
+
+Truman has had his latter-day critics as well. After a review of information available to Truman about the presence of espionage activities in the U.S. government, Democratic Senator Daniel Patrick Moynihan concluded in 1997 that Truman was "almost wilfully obtuse" concerning the danger of communism in the United States.[311] In 2010, historian Alonzo Hamby wrote that "Harry Truman remains a controversial president."[312]
+
+Historian Donald R. McCoy wrote in 1984:
+
+Harry Truman himself gave a strong and far-from-incorrect impression of being a tough, concerned and direct leader. He was occasionally vulgar, often partisan, and usually nationalistic ... On his own terms, Truman can be seen as having prevented the coming of a third world war and having preserved from Communist oppression much of what he called the free world. Yet clearly he largely failed to achieve his Wilsonian aim of securing perpetual peace, making the world safe for democracy, and advancing opportunities for individual development internationally.[313]
+
+However, the dissolution of the Soviet Union in 1991 caused Truman advocates to claim vindication for his decisions in the postwar period. According to Truman biographer Robert Dallek, "His contribution to victory in the cold war without a devastating nuclear conflict elevated him to the stature of a great or near-great president."[314] The 1992 publication of David McCullough's favorable biography of Truman further cemented the view of Truman as a highly regarded chief executive.[314]
+
+Truman has fared well in polls ranking the presidents. He has never been listed lower than ninth and was ranked fifth in a C-SPAN poll in 2009.[315]
+
+External video
+video icon Booknotes interview with David McCullough on Truman, July 19, 1992, C-SPAN
+Sites and honors
+
+Stamp issued in 1973, following Truman's death. Truman has been honored on five U.S. postage stamps, issued between 1973 and 1999.[316]
+In 1959, he was given a 50-year award by the Masons, recognizing his longstanding involvement: he was initiated on February 9, 1909, into the Belton Masonic Lodge in Missouri. In 1911, he helped establish the Grandview Lodge, and he served as its first Worshipful Master. In September 1940, during his Senate re-election campaign, Truman was elected Grand Master of the Missouri Grand Lodge of Freemasonry; Truman said later that the Masonic election assured his victory in the general election. In 1945, he was made a 33° Sovereign Grand Inspector General and an Honorary Member of the supreme council at the Supreme Council A.A.S.R. Southern Jurisdiction Headquarters in Washington D.C.[317][318] He was also a member of the Shriners and the Royal Order of Jesters, two affiliated bodies of Masonry.[319]
+
+Truman was also an honorary member of The Society of the Cincinnati,[320] a member of Sons of the American Revolution (SAR)[321] and the Sons of Confederate Veterans.[322] Two of his relatives were Confederate States Army soldiers.[322][323]
+
+The airport in Charlotte Amalie, United States Virgin Islands, was known as Harry S Truman Airport from 1948 until 1984, when it was renamed to honor Cyril Emmanuel King, the second elected governor of the U.S. Virgin Islands.[324]
+
+In 1953, Truman received the Solomon Bublick Award of the Hebrew University of Jerusalem.
+
+In 1956, Truman traveled to Europe with his wife. In England, he met with Churchill and received an honorary Doctor of Civil Law degree from Oxford University. Across Britain he was hailed; London's Daily Telegraph characterized Truman as the "Living and kicking symbol of everything that everybody likes best about the United States."[325]
+
+In Athens, Greece, a 12-foot-tall bronze statue of Truman was erected in 1963 with donations from Greek-Americans.[326]
+
+The Truman Sports Complex, completed in 1973, which contains the home stadiums for the Kansas City Chiefs and Kansas City Royals and is located close to Kansas City's border with Independence, is named after the former president.
+
+In 1975, the Truman Scholarship was created as a federal program to honor U.S. college students who exemplified dedication to public service and leadership in public policy.[327]
+
+A member institution of the City Colleges of Chicago, Harry S Truman College in Chicago, Illinois, opened in 1976, is named in his honor for his dedication to public colleges and universities.
+
+In 1984, Truman was posthumously awarded the United States Congressional Gold Medal.[328] In 1991, he was inducted into the Hall of Famous Missourians, and a bronze bust depicting him is on permanent display in the rotunda of the Missouri State Capitol.[329]
+
+Since 1986, Truman the Tiger has been the official mascot of the University of Missouri's Missouri Tigers athletic programs.
+
+Despite Truman's attempt to curtail the naval carrier arm, which led to the 1949 Revolt of the Admirals,[330] an aircraft carrier, USS Harry S. Truman, was named for him in February 1996. [331] The 129th Field Artillery Regiment is designated "Truman's Own" in recognition of Truman's service as commander of its D Battery during World War I.[332]
+
+On July 1, 1996, Northeast Missouri State University became Truman State University—to mark its transformation from a teachers' college to a highly selective liberal arts university and to honor the only Missourian to become president.
+
+In 2000, the headquarters for the State Department, built in the 1930s but never officially named, was dedicated as the Harry S Truman Building.[333]
+
+In 2001, the University of Missouri established the Harry S. Truman School of Public Affairs to advance the study and practice of governance.[334]
+
+In 2004, the President Harry S. Truman Fellowship in National Security Science and Engineering was created as a distinguished postdoctoral three-year appointment at Sandia National Laboratories.[335]
+
+Sites associated with Truman include:
+
+Harry S. Truman National Historic Site includes the Wallace House at 219 N. Delaware in Independence and the family farmhouse at Grandview, Missouri.
+Harry S Truman Birthplace State Historic Site is the house where Truman was born and spent 11 months in Lamar, Missouri.[336]
+Harry S. Truman Presidential Library and Museum – The presidential library in Independence
+Harry S. Truman Little White House – Truman's winter getaway at Key West, Florida
+Views on the CIA
+In his later life, Truman was credited as the author of a syndicated newspaper column called "Harry Truman Writes", which was actually ghostwritten by David M. Noyes, a close associate, following consultation with Truman. A December 1963 column in The Washington Post headlined "Limit CIA Role to Intelligence" contributed to an enduring controversy regarding Truman's intentions for the CIA. In the column, Truman asserts that he "never had any thought that when I set up the CIA that it would be injected into peacetime cloak and dagger operations." This text was based on earlier correspondence in which Truman wrote to Noyes that "It [the CIA] was not intended as a 'Cloak & Dagger outfit'!" Contrarily, Jeffrey T. Richelson of the National Security Archive at George Washington University observes that "The CIA was not doing much in 1963 ... that it had not already started doing by 1953, when Truman left office." Former CIA director Allen Dulles spoke with Truman about the column in April 1964; according to Dulles's notes: "I suggested [the Post column] seemed to me to be a misrepresentation of his position. I pointed out the number of National Security Actions ... which he had taken which dealt with covert operations by the CIA. He studied attentively the Post story and seemed quite astounded at it. In fact, he said that this was all wrong. He then said that he felt it had made a very unfortunate impression."[337]
